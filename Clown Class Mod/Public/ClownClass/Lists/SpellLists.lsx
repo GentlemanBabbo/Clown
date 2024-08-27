@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="0" revision="5" build="0"/>
+    <region id="SpellLists">
+        <node id="root">
+            <children>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="ec0031d6-443b-4d9c-a6e9-09457fd44f25"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="0e8ac538-7f26-462f-a393-244bf4512d67"/> make a new UUID
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="a5442a10-0b18-457c-954f-658ce7e38613"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="d91676bd-0b53-4883-aeaf-b62acb4f2799"/> make a new UUID
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="a94f007b-1a43-4885-a6ac-e423bd168854"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="20a245d7-2286-42d4-97b0-ff0f59e635ba"/> make a new UUID
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="77f8b2fc-3619-4ffa-9690-74e4f86defca"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="437c155c-c239-48c7-8eaf-aa94ea3b183d"/> make a new UUID
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="3f69ceee-0430-4b74-b9d9-e9889a7c4961"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList">
+                    <attribute id="Spells" type="LSString" value="Spell1;Spell2;Spell3"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="a24d494c-b795-470f-a1af-721033637a7e"/> make a new UUID
+                </node>				
+			</children>
+        </node>
+    </region>
+</save>
