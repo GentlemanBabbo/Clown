@@ -17,6 +17,8 @@ add equipment entry "ARM_Vanity_Circus_Body_A"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_F"
 add equipmentgroup
+add equipment entry "CONS_GEN_Food_Tart_Treacle"
+add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
@@ -42,6 +44,8 @@ add equipment entry "ARM_Vanity_Circus_Body_B"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
+add equipment entry "CONS_GEN_Food_Tart_Treacle"
+add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
 add equipment entry "OBJ_Bag_AlchemyPouch"
@@ -66,6 +70,8 @@ add equipmentgroup
 add equipment entry "ARM_Vanity_Prison_Poor"
 add equipmentgroup
 add equipment entry "ARM_Camp_Shoes_Sandals_C"
+add equipmentgroup
+add equipment entry "CONS_GEN_Food_Tart_Treacle_A"
 add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
