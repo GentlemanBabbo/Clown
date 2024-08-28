@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<save>
+	<version major="4" minor="0" revision="9" build="328" />
+	<region id="Templates">
+		<node id="Templates">
+			<children>	
+				<node id="GameObjects">
+					<attribute id="DisplayName" type="TranslatedString" handle="hafb9d09-ac27-4438-94b8-2d99318b462f" version="1" />
+					<attribute id="Description" type="TranslatedString" handle="hb2189a0-be04-48e2-bd83-faad1972769d" version="1" />
+					<attribute id="Icon" type="FixedString" value="ClownHammer_Clown_Hammer_Icon_ICON" />
+					<attribute id="LevelName" type="FixedString" value="" />
+					<attribute id="MapKey" type="FixedString" value="efcab0fd-f3f8-49da-af9c-7bac704bd6ff" />
+					<attribute id="Name" type="LSString" value="HONKERS_HAMMER" />
+					<attribute id="VisualTemplate" type="FixedString" value="f538cdac-eb06-43df-b91c-05215dd6d84b" />
+					<attribute id="ParentTemplateId" type="FixedString" value="5487ceb4-b009-46ae-8ed6-cd3baaf0a18d" />
+					<attribute id="Stats" type="FixedString" value="HONKERS_HAMMER" />
+					<attribute id="Type" type="FixedString" value="item" />
+				</node> 
+			</children>
+		</node>
+	</region>
+</save>

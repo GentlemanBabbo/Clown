@@ -1,0 +1,8 @@
+new entry "Passive_AdornClownPaint"
+type "PassiveData"
+data "Icon" "Spell_Evocation_Fireball"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "DisplayName" "h94447792fc98455eb309342157ae4db67f84;1"
+data "Description" "h3d075a6352c24d45b3b2e5221ac878be245g;1"
+data "ToggleOnFunctors" "ApplyStatus(WYR_FACEPAINT_CLOWN,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(WYR_FACEPAINT_CLOWN,100,-1)"
