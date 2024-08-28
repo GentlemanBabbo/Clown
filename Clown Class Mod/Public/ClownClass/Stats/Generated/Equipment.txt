@@ -1,8 +1,6 @@
 new equipment "EQP_CC_WHITEFACE"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "HONKERS_HAMMER"
-add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -15,9 +13,6 @@ add equipment entry "ARM_Shield"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
 add equipmentgroup
-add equipment entry "ARM_Vanity_Circus_Body_A"
-add equipmentgroup
-add equipment entry "ARM_Camp_Shoes_F"
 add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
@@ -28,8 +23,6 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_AUGUSTE"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "HONKERS_HAMMER"
-add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -41,10 +34,6 @@ add equipmentgroup
 add equipment entry "ARM_Shield"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
-add equipmentgroup
-add equipment entry "ARM_Vanity_Circus_Body_B"
-add equipmentgroup
-add equipment entry "ARM_Camp_Shoes"
 add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
@@ -55,8 +44,6 @@ add equipment entry "OBJ_Backpack_CampSupplies"
 new equipment "EQP_CC_TRAMP"
 add initialweaponset "Melee"
 add equipmentgroup
-add equipment entry "HONKERS_HAMMER"
-add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
 add equipmentgroup
 add equipment entry "OBJ_Potion_Healing"
@@ -68,10 +55,6 @@ add equipmentgroup
 add equipment entry "ARM_Shield"
 add equipmentgroup
 add equipment entry "OBJ_Scroll_Revivify"
-add equipmentgroup
-add equipment entry "ARM_Vanity_Prison_Poor"
-add equipmentgroup
-add equipment entry "ARM_Camp_Shoes_Sandals_C"
 add equipmentgroup
 add equipment entry "OBJ_Keychain"
 add equipmentgroup
