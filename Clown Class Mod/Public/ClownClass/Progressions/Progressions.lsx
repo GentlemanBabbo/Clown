@@ -14,24 +14,16 @@
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(45035ea2-d638-4097-b4f0-9e181c43f238,AbilityBonus,2,1);SelectSkills(5fc6d1b4-a1b3-411c-93b2-c294dd69b7f8,3)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					<attribute id="TableUUID" type="guid" value="2c4ef0f1-c789-4c06-839b-da6489ad9153"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
-                    <attribute id="UUID" type="guid" value="907d4b2d-cd15-44b7-b72d-f8bde3338f80"/> a Unique UUID specificaly for this entry within the table
+                    <attribute id="UUID" type="guid" value="3d34b7bd-5bc1-4ad2-831f-2782fbf4c633"/> a Unique UUID specificaly for this entry within the table
 					<children>
                         <node id="SubClasses">
                             <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
                                     <attribute id="Object" type="guid" value="d20116a7-c898-4216-a95b-6ebf4dbf75f8"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
-                            </children>
-                        </node>
-                        <node id="SubClasses">
-                            <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
                                     <attribute id="Object" type="guid" value="1c8a8a24-700a-4c46-bfe1-9a1b0a41f74a"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
-                            </children>
-                        </node>
-                        <node id="SubClasses">
-                            <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
                                     <attribute id="Object" type="guid" value="19297167-923e-432f-b813-0f6bba66326d"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
@@ -45,7 +37,7 @@
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Clown"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -54,27 +46,15 @@
 					<children>
                         <node id="SubClasses">
                             <children>
-                        <node id="SubClasses">
-                            <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
                                     <attribute id="Object" type="guid" value="d20116a7-c898-4216-a95b-6ebf4dbf75f8"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
-                            </children>
-                        </node>
-                        <node id="SubClasses">
-                            <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
                                     <attribute id="Object" type="guid" value="1c8a8a24-700a-4c46-bfe1-9a1b0a41f74a"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
-                            </children>
-                        </node>
-                        <node id="SubClasses">
-                            <children>
                                 <node id="SubClass"> Subclass. add this part at a level when your class chooses its subclass
                                     <attribute id="Object" type="guid" value="19297167-923e-432f-b813-0f6bba66326d"/> same UUID as the one for your subclass in ClassDescriptions.lsx
                                 </node>
-                            </children>
-                        </node>
                             </children>
                         </node>
                     </children>
