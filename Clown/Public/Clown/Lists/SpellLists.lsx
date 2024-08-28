@@ -5,7 +5,7 @@
         <node id="root">
             <children>
 				<node id="SpellList"> Level 1 Cantrip
-                    <attribute id="Spells" type="LSString" value="Target_ViciousMockery;Target_ShockingGrasp"/> a list of spell separated by a ;
+                    <attribute id="Spells" type="LSString" value="Target_ViciousMockery;Target_ShockingGrasp;Shout_SummonPie"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="3d585bcb-db4d-4a76-97df-d82f90c5cde8"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 1 Spell List
