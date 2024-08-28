@@ -1,9 +1,8 @@
-// Magus Class Features //
-
-new entry "Passive_Example"
+new entry "Passive_AdornClownPaint"
 type "PassiveData"
-data "DisplayName" "" // from .loca file //
-data "Description" "" // from .loca file //
-data "Boosts" "UnlockSpell(Spell_Example)" // what does the passive give //
-
-// Check Modifiers for additional things for what you can do with Passives //
+data "Icon" "Spell_Evocation_Fireball"
+data "Properties" "IsToggled;ToggledDefaultOn;ToggledDefaultAddToHotbar;Highlighted"
+data "DisplayName" "h94447792fc98455eb309342157ae4db67f84;1"
+data "Description" "h3d075a6352c24d45b3b2e5221ac878be245g;1"
+data "ToggleOnFunctors" "ApplyStatus(WYR_FACEPAINT_CLOWN,100,-1)"
+data "ToggleOffFunctors" "RemoveStatus(WYR_FACEPAINT_CLOWN,100,-1)"

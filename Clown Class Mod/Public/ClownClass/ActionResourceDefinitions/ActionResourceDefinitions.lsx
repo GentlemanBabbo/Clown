@@ -9,7 +9,7 @@
 					<attribute id="DiceType" type="uint32" value="0"/> If the resource has any dice type, like Superiority die from BM
                     <attribute id="DisplayName" type="TranslatedString" handle="" version="1"/> A text tied to the .loca file
                     <attribute id="Error" type="FixedString" value="ActionResourceDefinitions_New_Stat_4_Error"/>
-                    <attribute id="IsSpellResource" type="bool" value="true"/> Is this resource used to cast spells
+                    <attribute id="IsSpellResource" type="bool" value="false"/> Is this resource used to cast spells
                     <attribute id="MaxLevel" type="uint32" value="0"/>
                     <attribute id="MaxValue" type="uint32" value="0"/>
                     <attribute id="Name" type="FixedString" value="CarnivalCharge"/> What you will be referring to in your code
