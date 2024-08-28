@@ -12,22 +12,10 @@
 	<content contentuid="hb2189a0-be04-48e2-bd83-faad1972769d" version="1">"Go to clown school they said. It would be fun they said. No one ever said you'd be scraping brains off a starry mallet Dave! No one ever said you'd be mocking people until they died Dave!" - Chortles the Clown</content>	
 	<content contentuid="h94447792fc98455eb309342157ae4db67f84" version="1">Apply Clown Paint</content>	
 	<content contentuid="h3d075a6352c24d45b3b2e5221ac878be245g" version="1">Honk Honk! You are immune to &lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter.&lt;/LSTag&gt;</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h88f6bfaaadad4d059d20cd5a5c990bea9711" version="1"></content>
+	<content contentuid="hcc889ad4a523443faa8e40a06a0b18df95ee" version="1"></content>
+	<content contentuid="h0d1fec9f8c1641e88ab6b6b1a082e1ac8gfa" version="1">Pie-Faced</content>
+	<content contentuid="hb7f9831ad8fa4b8db109ebdc9920116dfacg" version="1">Who doesn't like a good pastry to the noggin'? Apparently everybody. Inflicts &lt;LSTag Type="Status" Tooltip="MADNESS"&gt;madness&lt;/LSTag&gt; to those hit by your jovial and enthusiastic use of camp supplies.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -62,4 +50,20 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+    <content contentuid="h88f6bfaaadad4d059d20cd5a5c990bea9711" version="1">Enter initial handle content here</content>
+    <content contentuid="hcc889ad4a523443faa8e40a06a0b18df95ee" version="1">Enter initial handle content here</content>
+    <content contentuid="h0d1fec9f8c1641e88ab6b6b1a082e1ac8gfa" version="1">Enter initial handle content here</content>
+    <content contentuid="hb7f9831ad8fa4b8db109ebdc9920116dfacg" version="1">Enter initial handle content here</content>
 </contentList>

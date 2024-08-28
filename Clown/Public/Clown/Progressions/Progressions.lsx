@@ -9,7 +9,7 @@
                     <attribute id="Boosts" type="LSString" value="ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(Mauls);Proficiency(Warhammers);Proficiency(LightArmor)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="1"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Clown"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint;Passive_PieFace"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
                     <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
@@ -37,7 +37,7 @@
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Clown"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint;Passive_PieFace"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
@@ -71,6 +71,222 @@
 					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="2b712eb0-fd8f-4133-af5c-f71018e007d1"/> a Unique UUID specificaly for this entry within the table
                 </node>
+                <node id="Progression"> Mainclass Level 3
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="3"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="93d1273d-aa7e-4d78-a1e1-f7dedee48508"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 4
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="4"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="cb2a75d7-ffb1-4fec-b63f-3f75b6addb89"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 5
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="5"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="76dcb549-9844-4c47-bd9f-e007e29a8bbe"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 6
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="6"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="be66ff46-8a7a-4405-a059-ccf0838776e6"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 7
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="7"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="32ac1ce6-2a93-4ac3-b8b7-dd4437218bf9"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 8
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="8"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="9546a28e-050d-4eb5-a6c8-bf3c3a517107"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 9
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="9"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="e6b5c869-6aa4-4921-b8a8-f9ae215ea520"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 10
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="10"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="a22ac7c3-70fe-4645-8beb-d231665d0747"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 11
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="11"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="fade51f6-ca7f-426b-9bec-0790070f9773"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 12
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="12"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="932f70ec-301b-428c-919f-ab9913464d8b"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 13
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="13"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="34d1703f-9a78-4efb-bed6-45648b1a0004"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 14
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="14"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="6ccd861e-4aac-4839-be1a-d0e1a6f89a22"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 15
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="15"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="aba82509-d823-4ba2-a551-24f856db77b9"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 16
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="16"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="32d06f4f-82f1-4b09-9c14-484eae3b76ef"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 17
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="17"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="068e7ec9-1ea6-4b83-aced-0154aa5e2410"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 18
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="18"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="6d6a7e0b-27f7-4c9a-bd40-749c05b5ec47"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 19
+                    <attribute id="AllowImprovement" type="bool" value="false"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="19"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="0b88c57c-fdfc-4ab7-ab79-604cd6b9cbd2"/> 
+                </node>
+                <node id="Progression"> Mainclass Level 20
+                    <attribute id="AllowImprovement" type="bool" value="true"/> 
+                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Level" type="uint8" value="20"/> 
+                    <attribute id="Name" type="LSString" value="Clown"/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/> 
+                    <attribute id="PassivesRemoved" type="LSString" value=""/>
+                    <attribute id="ProgressionType" type="uint8" value="0"/> 
+                    <attribute id="Selectors" type="LSString" value=""/> 
+					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
+                    <attribute id="UUID" type="guid" value="5c97832f-71b2-47e4-9ef1-0f80f6492b8f"/> 
+                </node>
 				<node id="Progression"> WhiteFace Level 1
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="WhiteFace"/>
@@ -79,7 +295,158 @@
                     <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="9e533b9d-ff72-4ff8-b685-22ffbb62b2a4"/> Give it a Unique UUID
                 </node>
-
+				<node id="Progression"> WhiteFace Level 2
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="724d6582-b62a-49e9-ad93-cc7d28eae0f5"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 3
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="0c82b2ab-ad34-4658-b808-9107b100011a"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 4
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="fb895b5a-a5dc-42ee-bdd4-282271bb3157"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 5
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="0bed5543-eb1b-4304-910b-b0729362392f"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 6
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="c9459aa2-8953-423a-ab98-499431d26ae5"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 7
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="c50b1c05-ccc5-47c5-89ea-c4e0dbca9214"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 8
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="a74f44f1-b7eb-4957-9fc4-7aab6b36edbc"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 9
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="0cf369f7-efaa-4c10-8636-e0779ae665ef"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 10
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="35f115e3-3bdf-4c81-b776-919b7232d471"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 11
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="55ab402a-49a2-479c-a14e-5c21c14c0314"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 12
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="dee7fa67-4dff-4e9d-bc09-8f63c3933f83"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 13
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="265d1c45-bb02-4270-a374-5d1af8715aae"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 14
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="e3fb847a-3d5d-4fab-bdcf-a3aa979cc81c"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 15
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="16fecea9-1aa0-4096-ae1e-a813098a375f"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 16
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="1e3ce702-c497-44f6-932e-d9e8a18b325f"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 17
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="20594d7e-5da9-4578-a667-7e4de649a028"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 18
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="cb243564-7e73-4b1a-9f9a-30751c0ee105"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 19
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="f1b0ddb2-fbbf-4326-9062-179971fdacb2"/> 
+                </node>
+				<node id="Progression"> WhiteFace Level 20
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="WhiteFace"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
+                    <attribute id="UUID" type="guid" value="96a502a6-c4db-41da-944a-2573b4841356"/> 
+                </node>                            
 				<node id="Progression"> Auguste Level 1
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Auguste"/>
@@ -88,14 +455,317 @@
                     <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="048abf7a-25a6-4495-89f1-e9d5fad6c532"/> Give it a Unique UUID
                 </node>
-
+				<node id="Progression"> Auguste Level 2
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="b44df97e-5e77-4b1b-b0ee-1e434f0d765f"/> 
+                </node>
+				<node id="Progression"> Auguste Level 3
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="3ebc9384-c045-45ec-b968-b2e52356b7f8"/> 
+                </node>
+				<node id="Progression"> Auguste Level 4
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="f6dcde92-60d0-474c-adeb-71da388e59b0"/> 
+                </node>
+				<node id="Progression"> Auguste Level 5
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="1d732d54-6fc4-4c37-a3bf-0c0c12bf558d"/> 
+                </node>
+				<node id="Progression"> Auguste Level 6
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="c2023be9-c3f2-40db-b005-b59a67311abe"/> 
+                </node>
+				<node id="Progression"> Auguste Level 7
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="b403c50c-8854-42c6-a470-45699cbce7b8"/> 
+                </node>
+				<node id="Progression"> Auguste Level 8
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="8d4914b2-0f9b-4186-99b1-dd8a6b4ef229"/> 
+                </node>
+				<node id="Progression"> Auguste Level 9
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="1d8e2c02-36db-40bc-9c3a-7e737e1c2f7f"/> 
+                </node>
+				<node id="Progression"> Auguste Level 10
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="8327051e-28fa-40ec-8f9d-d28b82c53b45"/> 
+                </node>
+				<node id="Progression"> Auguste Level 11
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="573e02c8-a4b1-4c87-abcf-86592f1bfb37"/> 
+                </node>
+				<node id="Progression"> Auguste Level 12
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="f6bd61ea-e071-4ae4-8863-94a68b3fd88f"/> 
+                </node>
+				<node id="Progression"> Auguste Level 13
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="83a2e32d-e6fb-4a30-9e5a-838ccbee0bde"/> 
+                </node>
+				<node id="Progression"> Auguste Level 14
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="f13b4514-c527-47b5-9941-6483bcf3a2a8"/> 
+                </node>
+				<node id="Progression"> Auguste Level 15
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="bc69ffb2-d46b-4e43-b266-dfaed6d10a09"/> 
+                </node>
+				<node id="Progression"> Auguste Level 16
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="85c09075-9dd5-4101-8a44-02bf14c496bd"/> 
+                </node>
+				<node id="Progression"> Auguste Level 17
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="4cb4334a-0491-4cfe-b362-606fa7126248"/> 
+                </node>
+				<node id="Progression"> Auguste Level 18
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="b0a843bc-94ba-4354-88df-396abd908b89"/> 
+                </node>
+				<node id="Progression"> Auguste Level 19
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="439e5ce4-bdd4-4c77-babd-541be33b4ce1"/> 
+                </node>
+				<node id="Progression"> Auguste Level 20
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Auguste"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
+                    <attribute id="UUID" type="guid" value="9a19c29e-6cbd-4f95-9f23-9d24474aae66"/> 
+                </node>
 				<node id="Progression"> Tramp Level 1
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Tramp"/>
-                    <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
-                    <attribute id="UUID" type="guid" value="4eefc504-c1f6-46b4-a0f0-cc329e6389d8"/> Give it a Unique UUID
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="4eefc504-c1f6-46b4-a0f0-cc329e6389d8"/> 
+                </node>
+				<node id="Progression"> Tramp Level 2
+                    <attribute id="Level" type="uint8" value="2"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="1a29ec34-672c-4d89-9da6-291964da776c"/> 
+                </node>
+				<node id="Progression"> Tramp Level 3
+                    <attribute id="Level" type="uint8" value="3"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="0ab310e6-424c-4374-8518-103bba735730"/> 
+                </node>
+				<node id="Progression"> Tramp Level 4
+                    <attribute id="Level" type="uint8" value="4"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="2f598fb3-2487-4ea2-82fd-49c690e45ca9"/> 
+                </node>
+				<node id="Progression"> Tramp Level 5
+                    <attribute id="Level" type="uint8" value="5"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="21685e3c-e0ee-4dbb-adf2-b3b211433e4a"/> 
+                </node>
+				<node id="Progression"> Tramp Level 6
+                    <attribute id="Level" type="uint8" value="6"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="91635186-be30-4964-9367-b857fc4421fb"/> 
+                </node>
+				<node id="Progression"> Tramp Level 7
+                    <attribute id="Level" type="uint8" value="7"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="398f3d90-72cf-43a7-9579-cd6c9b76808b"/> 
+                </node>
+				<node id="Progression"> Tramp Level 8
+                    <attribute id="Level" type="uint8" value="8"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="74932775-51dd-40ec-9651-b0c49ca8061d"/> 
+                </node>
+				<node id="Progression"> Tramp Level 9
+                    <attribute id="Level" type="uint8" value="9"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="26228e09-6b1f-4506-bb53-5016e5bceb73"/> 
+                </node>
+				<node id="Progression"> Tramp Level 10
+                    <attribute id="Level" type="uint8" value="10"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="067d184d-86dd-4c86-ba43-0d762ef27b38"/> 
+                </node>
+				<node id="Progression"> Tramp Level 11
+                    <attribute id="Level" type="uint8" value="11"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="f485857d-b576-4ae9-b233-873b178ea130"/> 
+                </node>
+				<node id="Progression"> Tramp Level 12
+                    <attribute id="Level" type="uint8" value="12"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="f1e9c259-e782-4a05-8703-40da1973843c"/> 
+                </node>
+				<node id="Progression"> Tramp Level 13
+                    <attribute id="Level" type="uint8" value="13"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="0842b052-0180-4d34-94d0-7a319cf2b0bb"/> 
+                </node>
+				<node id="Progression"> Tramp Level 14
+                    <attribute id="Level" type="uint8" value="14"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="915c42d5-db4a-48e5-ae40-28a09eaadf0e"/> 
+                </node>
+				<node id="Progression"> Tramp Level 15
+                    <attribute id="Level" type="uint8" value="15"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="26d5d07c-a26d-486f-92f7-19e6f5c7b87a"/> 
+                </node>
+				<node id="Progression"> Tramp Level 16
+                    <attribute id="Level" type="uint8" value="16"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="501e81c2-2e16-4148-aad3-8b9266f14e96"/> 
+                </node>
+				<node id="Progression"> Tramp Level 17
+                    <attribute id="Level" type="uint8" value="17"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="e3664aca-1ec1-48f5-b12c-01b4905b64f1"/> 
+                </node>                
+				<node id="Progression"> Tramp Level 18
+                    <attribute id="Level" type="uint8" value="18"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="2d78c6c8-f0c0-41c7-97fc-a2ee391fb63b"/> 
+                </node>
+				<node id="Progression"> Tramp Level 19
+                    <attribute id="Level" type="uint8" value="19"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="2433c986-79f0-4db2-87d3-9391ea8d5e91"/> 
+                </node>
+				<node id="Progression"> Tramp Level 20
+                    <attribute id="Level" type="uint8" value="20"/>
+                    <attribute id="Name" type="LSString" value="Tramp"/>
+                    <attribute id="ProgressionType" type="uint8" value="1"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
+                    <attribute id="UUID" type="guid" value="6d3f9a65-09ce-4b5e-b005-5cadeaefbfb4"/> 
                 </node>
             </children>
         </node>
