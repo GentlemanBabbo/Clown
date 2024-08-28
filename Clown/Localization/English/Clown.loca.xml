@@ -18,12 +18,12 @@
 	<content contentuid="ha75e276384bb4b228b39981bd056f51f6a59" version="1">Everyone loves pie! Especially a pie that flies!</content>
 	<content contentuid="h0d1fec9f8c1641e88ab6b6b1a082e1ac8gfa" version="1">Pie-Faced</content>
 	<content contentuid="hb7f9831ad8fa4b8db109ebdc9920116dfacg" version="1">Who doesn't like a good pastry to the noggin'? Apparently everybody. Inflicts &lt;LSTag Type="Status" Tooltip="MADNESS"&gt;madness&lt;/LSTag&gt; to those hit by your jovial and enthusiastic use of camp supplies.</content>
-	<content contentuid="haffdc82a601e48c0ab359aaf71c7733e77fa" version="1">Clown Time!</content>
-	<content contentuid="h15a8a7cd5e1e42ec84283301d64a8f7da0cf" version="1">Your troop is a gaggle of goofballs; crack a joke on them to inflict Disadvantage on their next Attack Roll, and give Advantage to your next Attack Roll. Lasts one turn.</content>
+	<content contentuid="haffdc82a601e48c0ab359aaf71c7733e77fa" version="1">Clown Time: Heckle</content>
+	<content contentuid="h15a8a7cd5e1e42ec84283301d64a8f7da0cf" version="1">Your troop is a gaggle of goofballs; crack a joke on them to inflict &lt;LSTag Type="Status" Tooltip="CLOWNTIME_HECKLED"&gt;Disadvantage&lt;/LSTag&gt; on their next Attack Roll, and give Advantage to your next Attack Roll. Lasts one turn.</content>
 	<content contentuid="hac25433711144b4eab3e387b6026cb93d076" version="1">Heckled</content>
 	<content contentuid="hecd232cad4294012a0243e0022a7011809f1" version="1">You've been made fun of by a clown. You have Disadvantage on your Attack Roll.</content>
-	<content contentuid="h23e9e131c1e24d58a652dbdfb504ac21b3g6" version="1"></content>
-	<content contentuid="h24bbe48b16664d30a25e63090e3c7d75ag69" version="1"></content>
+	<content contentuid="h23e9e131c1e24d58a652dbdfb504ac21b3g6" version="1">What a Gag!</content>
+	<content contentuid="h24bbe48b16664d30a25e63090e3c7d75ag69" version="1">Your antics against your troop has filled you with childish glee! You have Advantage on your Attack Roll</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
