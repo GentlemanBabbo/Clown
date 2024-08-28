@@ -12,7 +12,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(45035ea2-d638-4097-b4f0-9e181c43f238,AbilityBonus,2,1);SelectSkills(5fc6d1b4-a1b3-411c-93b2-c294dd69b7f8,3)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+                    <attribute id="Selectors" type="LSString" value="SelectAbilityBonus(45035ea2-d638-4097-b4f0-9e181c43f238,AbilityBonus,2,1);SelectSkills(5fc6d1b4-a1b3-411c-93b2-c294dd69b7f8,2)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					<attribute id="TableUUID" type="guid" value="b6de506d-8db5-4570-86cf-a280b4089072"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="3d34b7bd-5bc1-4ad2-831f-2782fbf4c633"/> a Unique UUID specificaly for this entry within the table
 					<children>
@@ -37,7 +37,7 @@
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Clown"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint"/>
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value=""/>
