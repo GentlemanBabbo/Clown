@@ -15,13 +15,15 @@
                 </node>
 <!--White Face-->               
 				<node id="SpellList"> Level 2 White Face
+                    <attribute id="Comment" type="LSString" value="White Face always prepared spells level 2"/>
                     <attribute id="Spells" type="LSString" value="Target_ClownTime_Heckle"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="0beb3952-a7b7-4cab-9704-013234c64d78"/> make a new UUID
                 </node>
 <!--Auguste-->
-				<node id="SpellList"> Level 1 Spell List
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
-                    <attribute id="UUID" type="guid" value="694e0cb0-2c10-493c-bd30-5f5ee2392f24"/> make a new UUID
+                <node id="SpellList">
+                    <attribute id="Comment" type="LSString" value="Auguste always prepared spells level 2"/>
+                    <attribute id="Spells" type="LSString" value="Target_TestYourMight;Target_TestYourMight_Unlock;Target_TestYourMight_Critical_Unlock"/>
+                    <attribute id="UUID" type="guid" value="e720ffa0-f942-45c0-a482-f8e8d5af9c16"/>
                 </node>
 <!--Tramp-->
 				<node id="SpellList"> Level 1 Spell List
