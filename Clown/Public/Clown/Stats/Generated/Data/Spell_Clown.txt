@@ -24,7 +24,7 @@ data "TargetConditions" "CanStand('424cfc4a-cf27-4a77-b597-f5b382c3ce44') and no
 data "Icon" "Spell_PopWeasel"
 data "DisplayName" "h47621af5g84e9gbc5dgbadfg09f35e9eb2e5;1"
 data "Description" "hae0e8000g2d25g32dage09cg263c22a11514;2"
-data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
+data "UseCosts" "ActionPoint:1"
 data "TooltipStatusApply" "ApplyStatus(MINOR_ILLUSION,100,3)"
 data "DamageType" "Fire"
 
