@@ -100,7 +100,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,1);ActionResource(SpellSlot,2,2)"/> 
                     <attribute id="Level" type="uint8" value="5"/> 
                     <attribute id="Name" type="LSString" value="Clown"/> 
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel2"/> 
+                    <attribute id="PassivesAdded" type="LSString" value="ExtraAttack;UnlockedSpellSlotLevel2"/> 
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 
                     <attribute id="Selectors" type="LSString" value=""/> 
