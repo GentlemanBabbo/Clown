@@ -6,13 +6,13 @@
             <children>
                 <node id="Progression"> Mainclass Level 1
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,1,0);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(Mauls);Proficiency(Warhammers);Proficiency(LightArmor)"/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,1,0);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(Mauls);Proficiency(Warhammers);Proficiency(LightArmor);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="1"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Clown"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint;Passive_PieFace"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                    <attribute id="Selectors" type="LSString" value="AddSpells(3d585bcb-db4d-4a76-97df-d82f90c5cde8,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(28a9eabf-63ca-4912-8a1f-f8101f3cb070,2)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+                    <attribute id="Selectors" type="LSString" value="AddSpells(3d585bcb-db4d-4a76-97df-d82f90c5cde8,,,,AlwaysPrepared);SelectAbilityBonus(b9149c8e-52c8-46e5-9cb6-fc39301c05fe,AbilityBonus,2,1);SelectSkills(28a9eabf-63ca-4912-8a1f-f8101f3cb070,2);SelectEquipment(aab8c5b5-eacf-4867-8e5f-bd4de3a9132e,1,BardInstrument)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="40881403-2633-4c72-9e05-29897d186572"/> a Unique UUID specificaly for this entry within the table
 					<children>
@@ -40,7 +40,7 @@
                     <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint;Passive_PieFace"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
-                    <attribute id="Selectors" type="LSString" value="AddSpells(3d585bcb-db4d-4a76-97df-d82f90c5cde8,,,,AlwaysPrepared)"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(3d585bcb-db4d-4a76-97df-d82f90c5cde8,,,,AlwaysPrepared);SelectEquipment(aab8c5b5-eacf-4867-8e5f-bd4de3a9132e,1,BardInstrument)"/>
 					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/>
                     <attribute id="UUID" type="guid" value="81f5ab7e-62ba-4c15-8ce6-96c1ee21ad4f"/>
 					<children>
@@ -291,7 +291,7 @@
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="WhiteFace"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/> as mentioned before type 1 = subclass
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_WickedHumor"/>
                     <attribute id="Selectors" type="LSString" value=""/> 
                     <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> same UUID as the ProgressionTableUUID in ClassDescriptions.lsx
                     <attribute id="UUID" type="guid" value="9e533b9d-ff72-4ff8-b685-22ffbb62b2a4"/> Give it a Unique UUID
@@ -461,7 +461,7 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Auguste"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_Seasoned_StageHand"/>
                     <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
                     <attribute id="UUID" type="guid" value="b44df97e-5e77-4b1b-b0ee-1e434f0d765f"/> 
                 </node>
