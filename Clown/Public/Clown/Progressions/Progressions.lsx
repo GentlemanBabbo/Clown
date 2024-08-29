@@ -79,7 +79,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/> 
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 
-                    <attribute id="Selectors" type="LSString" value="AddSpells(5168048a-fd38-4f16-b62b-a6bcc916308b,,,,AlwaysPrepared)"/> 
+                    <attribute id="Selectors" type="LSString" value="SelectPassives(d3f04000-6900-415b-80c3-ffa358962a5a,1);AddSpells(5168048a-fd38-4f16-b62b-a6bcc916308b,,,,AlwaysPrepared)"/> 
 					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
                     <attribute id="UUID" type="guid" value="93d1273d-aa7e-4d78-a1e1-f7dedee48508"/> 
                 </node>
@@ -127,7 +127,7 @@
                     <attribute id="PassivesAdded" type="LSString" value=""/> 
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 
-                    <attribute id="Selectors" type="LSString" value=""/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells(1c8972a0-d0bf-4436-a9f1-8548b7c85aae,,,,AlwaysPrepared)"/> 
 					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> 
                     <attribute id="UUID" type="guid" value="32ac1ce6-2a93-4ac3-b8b7-dd4437218bf9"/> 
                 </node>
