@@ -28,6 +28,16 @@ data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnCreate"
 data "Boosts" "ApplyStatus(PSIONICTONIC_PSYCHIC_EXTRA_DAMAGE_TECHNICAL,100,-1)"
 
+new entry "Passive_ManiacalFrenzy"
+type "PassiveData"
+data "DisplayName" "hc9ed5d5935ad4d96be732fcd870b548c5f50;3"
+data "Description" "h0f6b89645b214da9a06db04f8b9e5d7b6aca;5"
+data "Icon" "PassiveFeature_Generic_Blood"
+data "Properties" "Highlighted"
+data "Conditions" "Enemy(context.Target) and IsKillingBlow()"
+data "StatsFunctorContext" "OnCreate"
+data "Boosts" "ApplyStatus(MANIACAL_FRENZY,100,2)"
+
 <!--WhiteFace-->
 
 new entry "Passive_WickedHumor"
