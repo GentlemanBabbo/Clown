@@ -1,5 +1,34 @@
 <!--Clown-->
 
+new entry "Target_Bamboozle"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_InvokeDuplicity"
+data "SpellProperties" "GROUND:Summon(aaee4dce-a30f-440a-bb2c-45ad64c7884f, 10,,,InvokeDuplicityStack,INVOKE_DUPLICITY_TECHNICAL)"
+data "TargetConditions" "CanStand('aaee4dce-a30f-440a-bb2c-45ad64c7884f') and not Character() and not Self()"
+data "Icon" "Spell_Bamboozle"
+data "DisplayName" "he4402d02gce5dgf1bag1e09gf8438717d9b2;1"
+data "Description" "h23a48d66g3e26gf04fg3ff4gc65cea333a58;3"
+data "DescriptionParams" "."
+data "ExtraDescription" "h72cc72dcg7966g2fa9g119dg2ef35d2bdf0e;1"
+data "ExtraDescriptionParams" "."
+data "TooltipStatusApply" "."
+data "UseCosts" "ActionPoint:1;CarnivalCharge:1"
+
+new entry "Target_PopGoesTheWeasle"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_MinorIllusion"
+data "SpellProperties" "GROUND:Summon(424cfc4a-cf27-4a77-b597-f5b382c3ce44, 3,,,'MinorIllusionStack',MINOR_ILLUSION)"
+data "TargetConditions" "CanStand('424cfc4a-cf27-4a77-b597-f5b382c3ce44') and not Character() and not Self()"
+data "Icon" "Spell_PopWeasel"
+data "DisplayName" "h47621af5g84e9gbc5dgbadfg09f35e9eb2e5;1"
+data "Description" "hae0e8000g2d25g32dage09cg263c22a11514;2"
+data "UseCosts" "ActionPoint:1;SpellSlotsGroup:1:1:1"
+data "TooltipStatusApply" "ApplyStatus(MINOR_ILLUSION,100,3)"
+data "DamageType" "Fire"
+
+
 <!--WhiteFace-->
 
 new entry "Target_ClownTime_Heckle"
