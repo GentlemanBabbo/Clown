@@ -461,7 +461,8 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Auguste"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_Seasoned_StageHand"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_TestYourMight;Passive_Seasoned_StageHand"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(e720ffa0-f942-45c0-a482-f8e8d5af9c16,,,,AlwaysPrepared)"/> 
                     <attribute id="TableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/>
                     <attribute id="UUID" type="guid" value="b44df97e-5e77-4b1b-b0ee-1e434f0d765f"/> 
                 </node>
