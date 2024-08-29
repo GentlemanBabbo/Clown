@@ -24,9 +24,11 @@ type "PassiveData"
 data "DisplayName" "ha7d3c848913e49fca902c4e4f815d6cabf71;3"
 data "Description" "h183ef037b57349e4aa4dc41441f5988988aa;5"
 data "Icon" "PassiveFeature_ElementalAffinity_ExtraDamage"
+data "DescriptionParams" "DealDamage(CharismaModifier,Psychic)"
 data "Properties" "Highlighted"
-data "StatsFunctorContext" "OnCreate"
-data "Boosts" "ApplyStatus(PSIONICTONIC_PSYCHIC_EXTRA_DAMAGE_TECHNICAL,100,-1)"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "not IsMiss() and IsMeleeWeaponAttack() "
+data "StatsFunctors" "DealDamage(CharismaModifier,Psychic,Magical)"
 
 
 

@@ -9,9 +9,29 @@
                     <attribute id="Spells" type="LSString" value="Target_ViciousMockery;Target_ShockingGrasp"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="3d585bcb-db4d-4a76-97df-d82f90c5cde8"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
-				<node id="SpellList"> Level 2 Cantrip
-                    <attribute id="Spells" type="LSString" value="Shout_SummonPie"/> a list of spell separated by a ;
+				<node id="SpellList"> Level 2
+                    <attribute id="Spells" type="LSString" value="Shout_SummonPie;Target_PopGoesTheWeasle"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="38e707c2-66ac-488b-bb03-243954c061b9"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList"> Level 3
+                    <attribute id="Spells" type="LSString" value="Target_Bamboozle;Target_SendInTheClowns_3"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="5168048a-fd38-4f16-b62b-a6bcc916308b"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList"> Level 4
+                    <attribute id="Spells" type="LSString" value=""/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="3ad27192-1424-41cf-b95e-813d893dcadb"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList"> Level 5
+                    <attribute id="Spells" type="LSString" value=""/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="5868d7f8-8761-4cec-88a7-27a2f6dca6a1"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList"> Level 6
+                    <attribute id="Spells" type="LSString" value="Shout_Coulrophobia_Aura"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="43f8fe14-ea1a-49a7-9aaa-728f4c93f4b0"/> make a new UUID. refer to this when selecting or adding spells
+                </node>
+				<node id="SpellList"> Level 7
+                    <attribute id="Spells" type="LSString" value="Shout_Concoctions_Clown"/> a list of spell separated by a ;
+                    <attribute id="UUID" type="guid" value="1c8972a0-d0bf-4436-a9f1-8548b7c85aae"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 <!--White Face-->               
 				<node id="SpellList"> Level 2 White Face
