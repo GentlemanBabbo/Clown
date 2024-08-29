@@ -37,7 +37,7 @@
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Clown"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint;Passive_PieFace"/>
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint"/>
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(3d585bcb-db4d-4a76-97df-d82f90c5cde8,,,,AlwaysPrepared);SelectEquipment(aab8c5b5-eacf-4867-8e5f-bd4de3a9132e,1,BardInstrument)"/>
@@ -64,10 +64,10 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,1)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="2"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Clown"/> Name of the class, keep it consistent with class description
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3"/> most class features usually can be done with passives
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_PieFace;UnlockedSpellSlotLevel3"/> most class features usually can be done with passives
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 0 means main class, 1 means subclass, 2 means race
-                    <attribute id="Selectors" type="LSString" value="SelectPassives(8334b3ed-37e3-4ce7-a196-30a180775994,1)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
+                    <attribute id="Selectors" type="LSString" value="AddSpells(38e707c2-66ac-488b-bb03-243954c061b9,,,,AlwaysPrepared);SelectPassives(8334b3ed-37e3-4ce7-a196-30a180775994,1)"/> this is where you can have your class select spells from spell list, passive from passive list, and skill from skill list. Select ability bonus let you get the +2/+1 at CC
 					<attribute id="TableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> Same UUID as the one in ClassDescriptions.lsx this refers to the entire table
                     <attribute id="UUID" type="guid" value="2b712eb0-fd8f-4133-af5c-f71018e007d1"/> a Unique UUID specificaly for this entry within the table
                 </node>
