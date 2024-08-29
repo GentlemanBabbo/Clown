@@ -145,7 +145,7 @@
                 </node>
                 <node id="Progression"> Mainclass Level 9
                     <attribute id="AllowImprovement" type="bool" value="false"/> 
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3)"/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(CarnivalCharge,1,0)"/> 
                     <attribute id="Level" type="uint8" value="9"/> 
                     <attribute id="Name" type="LSString" value="Clown"/> 
                     <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3"/> 

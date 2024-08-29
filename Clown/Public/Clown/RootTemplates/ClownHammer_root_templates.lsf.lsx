@@ -7,7 +7,7 @@
 				<node id="GameObjects">
 					<attribute id="DisplayName" type="TranslatedString" handle="hafb9d09-ac27-4438-94b8-2d99318b462f" version="1" />
 					<attribute id="Description" type="TranslatedString" handle="hb2189a0-be04-48e2-bd83-faad1972769d" version="1" />
-					<attribute id="Icon" type="FixedString" value="ClownHammer_Clown_Hammer_Icon_ICON" />
+					<attribute id="Icon" type="FixedString" value="Item_UNI_WYR_Circus_ClownHammer_GLOW" />
 					<attribute id="LevelName" type="FixedString" value="" />
 					<attribute id="MapKey" type="FixedString" value="efcab0fd-f3f8-49da-af9c-7bac704bd6ff" />
 					<attribute id="Name" type="LSString" value="HONKERS_HAMMER" />
