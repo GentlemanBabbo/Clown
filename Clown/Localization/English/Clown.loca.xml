@@ -39,8 +39,7 @@
 	<content contentuid="hf3423c66994741a2b7aa851c2c1d7cd47afg" version="1">Come one, come all! See if you can ring the bell with your bolstering muscles! First one to knock the enemy into the sky wins a prize!</content>	
 	<content contentuid="h1318d03c24ba4b5081bbdcf63ad7547a0aef" version="1">Test Your Might: Interrupt</content>
 	<content contentuid="h6b28a73690674125bc27f0aa98018f680agf" version="1">Test Your Might: Critical</content>
-	<content contentuid="haee4b701ed8f4d4a8e5c55593c253998cb94" version="1"></content>
-	<content contentuid="h32864c1eb996429f9dcf56a0ea5fe7bd67c7" version="1"></content>
+
 	<content contentuid="he4402d02gce5dgf1bag1e09gf8438717d9b2" version="1">Bamboozle</content>
 	<content contentuid="h23a48d66g3e26gf04fg3ff4gc65cea333a58" version="3">Create a distracting illusionion with a hidden surprise</content>
 	<content contentuid="h94781c50g3b9bgf1a0g0516g67f0ddaa49b2" version="14">Clown Illusion</content>
@@ -92,6 +91,9 @@
 	<content contentuid="hd4a65967g332eg7594g3314g1121d5a8c4b9" version="1">Coulrophobia</content>
 	<content contentuid="h377922e5g1da2g5318g5f91g3fc5894eefd8" version="1">Send in the Clowns</content>
 	<content contentuid="hbefc614bg8ff3g1839g3513g99695d41694c" version="1">Summon a circus of clowns to surround and harrass your enemies.</content>
+	
+	<content contentuid="haee4b701ed8f4d4a8e5c55593c253998cb94" version="1">Fortune Teller Act</content>
+	<content contentuid="h32864c1eb996429f9dcf56a0ea5fe7bd67c7" version="1">You believe you can see the future, and you wield this belief against others. Your Weapon Damage now scales with your Charisma Modifier.</content>	
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>

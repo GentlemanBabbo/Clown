@@ -30,7 +30,23 @@ data "StatsFunctorContext" "OnAttack"
 data "Conditions" "not IsMiss() and IsMeleeWeaponAttack() "
 data "StatsFunctors" "DealDamage(CharismaModifier,Psychic,Magical)"
 
+new entry "Passive_Act_FortuneTeller"
+type "PassiveData"
+data "DisplayName" "haee4b701ed8f4d4a8e5c55593c253998cb94;2"
+data "Description" "h32864c1eb996429f9dcf56a0ea5fe7bd67c7;3"
+data "Properties" "Highlighted"
+data "Icon" "Skill_Warlock_BindPactWeapon"
+data "Boosts" "WeaponAttackRollAbilityOverride(Charisma)"
 
+new entry "Passive_Act_Strongman"
+
+new entry "Passive_Act_TightRopeWalker"
+
+new entry "Passive_Act_"
+
+new entry "Passive_Act_FortuneTeller"
+
+new entry "Passive_Act_FortuneTeller"
 
 <!--WhiteFace-->
 
