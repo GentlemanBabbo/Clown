@@ -65,7 +65,7 @@
                     <attribute id="DisplayName" type="TranslatedString" handle="h8ea14667c32c459c8837e5b57c204d3ec42d" version="1"/> Link to the .loca file
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
-                    <attribute id="Name" type="FixedString" value="WhiteFace"/> name of your subclass
+                    <attribute id="Name" type="FixedString" value="Tramp"/> name of your subclass
                     <attribute id="ParentGuid" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/> This is the same UUID as your main class, as the main class act as the subclass' parent
                     <attribute id="PrimaryAbility" type="uint8" value="2"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/> This is a different table as the Main Class, as this one is specific to the subclass
