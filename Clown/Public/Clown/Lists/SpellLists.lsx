@@ -14,7 +14,7 @@
                     <attribute id="UUID" type="guid" value="38e707c2-66ac-488b-bb03-243954c061b9"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 3
-                    <attribute id="Spells" type="LSString" value="Target_Bamboozle;Target_Container_SendInTheClowns"/> a list of spell separated by a ;
+                    <attribute id="Spells" type="LSString" value="Target_Bamboozle;Target_SendInTheClowns"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="5168048a-fd38-4f16-b62b-a6bcc916308b"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 4
