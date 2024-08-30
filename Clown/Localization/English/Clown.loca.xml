@@ -91,50 +91,27 @@
 	<content contentuid="hd4a65967g332eg7594g3314g1121d5a8c4b9" version="1">Coulrophobia</content>
 	<content contentuid="h377922e5g1da2g5318g5f91g3fc5894eefd8" version="1">Send in the Clowns</content>
 	<content contentuid="hbefc614bg8ff3g1839g3513g99695d41694c" version="1">Summon a circus of clowns to surround and harrass your enemies.</content>
-	<content contentuid="h3fb3e773g6225g0130g9416g2e5744775c45" version="1">Test Your Might</content>
 	<content contentuid="hf3292a8bg7590g420eg27e0gc7af25c76020" version="1">Clown</content>
-	<content contentuid="h2f7bd1e2gef55g5da4g83f4g4287d375a987" version="2">Squriting Flower</content>
-	<content contentuid="h484738a2gc603gecbcgaf15g8b6ab87553ff" version="1">&lt;LSTag Type="Status" Tooltip="WET"&gt;Soak&lt;/LSTag&gt; creatures up to a combined [1].</content>
+	<content contentuid="h2f7bd1e2gef55g5da4g83f4g4287d375a987" version="2">Squirting Flower</content>
+	<content contentuid="h484738a2gc603gecbcgaf15g8b6ab87553ff" version="1">&lt;LSTag Type="Status" Tooltip="WET"&gt;Soak&lt;/LSTag&gt; creatures with your gag-flower.</content>
 	<content contentuid="h24e17e26g9c5bga950g3b0cgab694d2cd95c" version="1">Shocking Handshake</content>
 	<content contentuid="he093b10age23fgbb64g5659gb28fb39070ff" version="1">While having a shockingly good time, the target cannot use reactions. This spell has &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on creatures with metal armour.</content>
 	
 	<content contentuid="haee4b701ed8f4d4a8e5c55593c253998cb94" version="1">Fortune Teller Act</content>
 	<content contentuid="h32864c1eb996429f9dcf56a0ea5fe7bd67c7" version="1">You believe you can see the future, and you wield this belief against others. Your Weapon Damage now scales with your Charisma Modifier.</content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="hced6186e9afb40f78e08b659bd1c6efbb280" version="1">Strong Man Act</content>
+	<content contentuid="hd94ba0583748402eadaa52444a6836cc8gf6" version="1">Years of watching this act be carried out by your carnie compatriots has vicariously impacted your body. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; on Athletics, and your melee attacks are boosted by your Strength Modifier.</content>
+	<content contentuid="h767234883f514273b51919546aa8b9696655" version="1">Tight Rope Walker Act</content>
+	<content contentuid="h70bc9a3b32f54a9585cc458f5b715d37c80a" version="1">Despite being the bumbling nincompoop you are, your ability on the wire is not to be questioned. You have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; and Acrobatics and Performance checks.</content>
+	<content contentuid="hdf1e935350af482c85ac8bb89964f77b983a" version="1">Fire Eater Act</content>
+	<content contentuid="hbfe66473cdc64a5aae6651b5170e2f14c232" version="1">People are still in awe of your ability to swallow flame tipped torches to this day. You are resistant to Fire Damage.</content>
+	<content contentuid="h85fdfff815bf44f7a7887e5fdd98db615a7a" version="1">Juggling Act</content>
+	<content contentuid="h2ed4c8d8376d4e16858cdae11f1b1f934ca8" version="1">Your time at clown college netted you some dextrous abilities with juggling balls. Your Throw Damage now is increased by your Charisma Modifier, and you gain an additional Roll Bonus towards Sleight of Hand.</content>
+	<content contentuid="hca49b5fd595a4ccaacdd8c129bd452c500e8" version="1">Diving Act</content>
+	<content contentuid="h63a16263425840f7b81fe2c5e37d8efdf52c" version="1">Fearless in the face of heights, your ability to fall with grace is applauded by many a fan. You suffer Half Damage from falls, and are immune to &lt;LSTag Type="Status" Tooltip="SUFFOCATING"&gt;Suffocation&lt;/LSTag&gt;.</content>	
+	<content contentuid="h2ec2110981924eee95fba30f7cd386df7e19" version="1">Cannonball Act</content>
+	<content contentuid="h144ae7b047b34a3a8660e13872844ebedfbg" version="1"></content>
+
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -215,4 +192,12 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
 </contentList>
