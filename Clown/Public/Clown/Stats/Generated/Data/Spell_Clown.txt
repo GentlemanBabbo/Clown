@@ -14,7 +14,7 @@ data "DescriptionParams" "."
 data "ExtraDescription" "h72cc72dcg7966g2fa9g119dg2ef35d2bdf0e;1"
 data "ExtraDescriptionParams" "."
 data "TooltipStatusApply" "."
-data "UseCosts" "ActionPoint:1"
+data "UseCosts" "ActionPoint:1;CarnivalCharge:1"
 
 new entry "Target_PopGoesTheWeasle"
 type "SpellData"
