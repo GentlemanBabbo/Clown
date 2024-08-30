@@ -14,7 +14,7 @@
                     <attribute id="LearningStrategy" type="uint8" value="1"/>
                     <attribute id="MustPrepareSpells" type="bool" value="true"/> Have this as false if you don't need to prepare them
                     <attribute id="Name" type="FixedString" value="Clown"/> The name of your class
-                    <attribute id="PrimaryAbility" type="uint8" value="2"/> 4 is for int. order goes from Str, Dex, Con, Int, Wis, and Cha.
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/> 4 is for int. order goes from Str, Dex, Con, Int, Wis, and Cha.
                     <attribute id="ProgressionTableUUID" type="guid" value="cb935304-e29e-4fc5-8ac8-20fedd3b344c"/> This UUID links the Class to a specific progression table inside Progressions.lsx
                     <attribute id="SoundClassType" type="FixedString" value="Bard"/> Pick a class that your class would be the most similar to
                     <attribute id="SpellCastingAbility" type="uint8" value="6"/> 4 is for int. order goes from Str, Dex, Con, Int, Wis, and Cha.
@@ -22,6 +22,9 @@
 					<children>
                         <node id="Tags">
                             <attribute id="Object" type="guid" value="d93434bd-6b71-4789-b128-ee24156057cc"/>
+                        </node>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="4dc96663-3d4f-4fac-8c49-344cbd3b2557"/>
                         </node>
                     </children>
                 </node>
@@ -35,11 +38,16 @@
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="WhiteFace"/> name of your subclass
                     <attribute id="ParentGuid" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/> This is the same UUID as your main class, as the main class act as the subclass' parent
-                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> This is a different table as the Main Class, as this one is specific to the subclass
                     <attribute id="SoundClassType" type="FixedString" value="Bard"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="6"/>
                     <attribute id="UUID" type="guid" value="086da316-83e7-447d-b715-a75085c8f5b2"/> Make a unique UUID for the subclass
+					<children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="c8fd98ef-40d3-4d8f-8db0-4a404e2da946"/>
+                        </node>
+                    </children>
                 </node>
 				<node id="ClassDescription"> Subclass (you will need one of this for each subclass)
                     <attribute id="CanLearnSpells" type="bool" value="true"/>
@@ -51,11 +59,16 @@
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Auguste"/> name of your subclass
                     <attribute id="ParentGuid" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/> This is the same UUID as your main class, as the main class act as the subclass' parent
-                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="524c1cfa-1218-4b26-be53-edf474e06a54"/> This is a different table as the Main Class, as this one is specific to the subclass
                     <attribute id="SoundClassType" type="FixedString" value="Bard"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="6"/>
                     <attribute id="UUID" type="guid" value="6f1d8958-a038-4b35-8191-2b97e83cef6c"/> Make a unique UUID for the subclass
+					<children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="644107bd-8e67-407c-a96f-37642144c8d4"/>
+                        </node>
+                    </children>
                 </node>
 				<node id="ClassDescription"> Subclass (you will need one of this for each subclass)
                     <attribute id="CanLearnSpells" type="bool" value="true"/>
@@ -67,11 +80,16 @@
                     <attribute id="MustPrepareSpells" type="bool" value="true"/>
                     <attribute id="Name" type="FixedString" value="Tramp"/> name of your subclass
                     <attribute id="ParentGuid" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/> This is the same UUID as your main class, as the main class act as the subclass' parent
-                    <attribute id="PrimaryAbility" type="uint8" value="2"/>
+                    <attribute id="PrimaryAbility" type="uint8" value="6"/>
                     <attribute id="ProgressionTableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/> This is a different table as the Main Class, as this one is specific to the subclass
                     <attribute id="SoundClassType" type="FixedString" value="Bard"/>
                     <attribute id="SpellCastingAbility" type="uint8" value="6"/>
                     <attribute id="UUID" type="guid" value="0a47f7cc-1a9a-4117-b636-3a5bccaa9c71"/> Make a unique UUID for the subclass
+					<children>
+                        <node id="Tags">
+                            <attribute id="Object" type="guid" value="5e12f27b-6842-4d5d-8d3c-ec61ce6a882d"/>
+                        </node>
+                    </children>
                 </node>
             </children>
         </node>
