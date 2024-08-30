@@ -23,7 +23,7 @@
 	<content contentuid="hac25433711144b4eab3e387b6026cb93d076" version="1">Heckled</content>
 	<content contentuid="hecd232cad4294012a0243e0022a7011809f1" version="1">You've been made fun of by a clown. You have Disadvantage on your Attack Roll.</content>
 	<content contentuid="h23e9e131c1e24d58a652dbdfb504ac21b3g6" version="1">What a Gag!</content>
-	<content contentuid="h24bbe48b16664d30a25e63090e3c7d75ag69" version="1">Your antics against your troop has filled you with childish glee! You have Advantage on your Attack Roll</content>
+	<content contentuid="h24bbe48b16664d30a25e63090e3c7d75ag69" version="1">Your antics against your troop has filled you with childish glee! You have Advantage on your Attack Roll.</content>
 	<content contentuid="hf79626942a1640138c1f39b4a9b4185df89c" version="1">Braggadocio</content>
 	<content contentuid="h8ef22dd85d5b47148f67ba02176ce111d59c" version="1">Your opinion of yourself borderlines on arrogance; after all, you're the kingpin clown. Such beliefs fuel your strikes with extra zeal; deal Force Damage equal to your Charisma modifier per attack.</content>
 	<content contentuid="ha7d3c848913e49fca902c4e4f815d6cabf71" version="1">Psionic Tonic</content>
@@ -43,7 +43,7 @@
 	<content contentuid="h6b28a73690674125bc27f0aa98018f680agf" version="1">Test Your Might: Critical</content>
 
 	<content contentuid="he4402d02gce5dgf1bag1e09gf8438717d9b2" version="1">Bamboozle</content>
-	<content contentuid="h23a48d66g3e26gf04fg3ff4gc65cea333a58" version="3">Create a distracting illusionion with a hidden surprise</content>
+	<content contentuid="h23a48d66g3e26gf04fg3ff4gc65cea333a58" version="3">Create a distracting illusion with a hidden surprise!</content>
 	<content contentuid="h94781c50g3b9bgf1a0g0516g67f0ddaa49b2" version="14">Clown Illusion</content>
 	<content contentuid="h14e81037g3329g626fg7e51g05c4a9ab0499" version="8"></content>
 	<content contentuid="h47621af5g84e9gbc5dgbadfg09f35e9eb2e5" version="1">Pop Goes the Weasle</content>
@@ -73,18 +73,18 @@
   	<content contentuid="h094f74f5gdc91gcf94gc4b7g59b947d3c676" version="4">Haste Fumes</content>
   	<content contentuid="hcd5a39edgdc4eg71c4g727agfeb88bc679a3" version="3">Bibberbang Juice</content>
   	<content contentuid="h9b7b4063ga470g2ba8g7312gd3dd68135d39" version="1">Musicbox Illusion</content>
-  	<content contentuid="hf658aa29gc816g5173g2d9ag0d3547912ff4" version="2">Neutralize a targets aggression making them easier to catch</content>
-  	<content contentuid="h635e2e03g4b18g8313g4892gad5a739381ae" version="1">Make them very happy with this fun toy</content>
+  	<content contentuid="hf658aa29gc816g5173g2d9ag0d3547912ff4" version="2">Neutralize a target's aggression, making them easier to catch.</content>
+  	<content contentuid="h635e2e03g4b18g8313g4892gad5a739381ae" version="1">Make them very happy with this fun toy.</content>
   	<content contentuid="h32f60e3cgff28gb234g7519g4655d76765c6" version="1">Clown Concoctions</content>
   	<content contentuid="h54a7c775g1bc6g8b10g2041g314e35f0484c" version="1">Create some fun party favors to liven things up.</content>
   	<content contentuid="h4d1e8fddg3d2bg8627gfcc8gfc5997139c4b" version="1">Happy Time</content>
-  	<content contentuid="h77d67ed1g315dg57f7gd87agdf1eeaffb812" version="1">Concoct a bottle of Happy Time </content>
+  	<content contentuid="h77d67ed1g315dg57f7gd87agdf1eeaffb812" version="1">Concoct a bottle of Happy Time.</content>
   	<content contentuid="h5981229egda21g3de9g8e49g9f1978fb5e9d" version="1">Bibberbang Juice</content>
-  	<content contentuid="h10c80bcbg5a29gfc02g8eb6g91f35b55e51c" version="1">Concoct a bottle of Bibberbang Juice</content>
+  	<content contentuid="h10c80bcbg5a29gfc02g8eb6g91f35b55e51c" version="1">Concoct a bottle of Bibberbang Juice.</content>
   	<content contentuid="h7a19f35dg15a9g04ffg725dgbfb47e23a776" version="1">Afterpiece Tonic</content>
-	<content contentuid="h1a81e487gff30ga084g3184g0cb2e210a581" version="1">Concoct a bottle of Afterpiece Tonic </content>
+	<content contentuid="h1a81e487gff30ga084g3184g0cb2e210a581" version="1">Concoct a bottle of Afterpiece Tonic.</content>
 	<content contentuid="ha5ab3c1bgfc09gd1dbgc341gdd954c32d78c" version="1">Haste Fumes</content>
-	<content contentuid="h45097f47gb936g4bc7g8d47gf26f5ee75d81" version="1">Concoct a bottle of Haste Fumes</content>
+	<content contentuid="h45097f47gb936g4bc7g8d47gf26f5ee75d81" version="1">Concoct a bottle of Haste Fumes.</content>
 	<content contentuid="hbce1658bg8cf0g9f0fgf489g50e6c583b917" version="1">Send in the Clowns</content>
 	<content contentuid="hc29c98c0gbd84g470ag3d2dg1126de96ae70" version="1">Summon a circus of clowns to surround and harrass your enemies.</content>
 	<content contentuid="h8e8ef835g1de7g1788g76b4g6bf23d2fbf07" version="2">Clown</content>
