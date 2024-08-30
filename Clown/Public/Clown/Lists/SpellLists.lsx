@@ -9,6 +9,18 @@
                     <attribute id="Spells" type="LSString" value="Target_ViciousMockery;Target_ShockingHandshake;Zone_SquirtingFlower"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="3d585bcb-db4d-4a76-97df-d82f90c5cde8"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
+				<node id="SpellList"> Level 2 and 3 Spell List
+                    <attribute id="Spells" type="LSString" value="Target_Hex;Target_CharmPerson;Target_FloatingDisk;Target_Sanctuary;Target_Entangle;Target_FaerieFire;Target_FogCloud;Target_Grease;Target_Sleep;Target_CureWounds;Target_Longstrider;Target_AnimalFriendship;Shout_AbsorbElements;Target_BeastBond;Throw_Catapult;Target_CauseFear;Shout_DetectMagic;Target_Snare;Zone_TashasCausticBrew;Shout_ZephyrStrike"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="69a47ea4-447f-4428-b034-4708cc3bc446"/> make a new UUID
+                </node>
+				<node id="SpellList"> Level 5 and 7 Spell List
+                    <attribute id="Spells" type="LSString" value="Target_EnlargeReduce;Target_HeatMetal;Target_Knock;Target_PhantasmalForce;Target_CalmEmotions;Shout_AlterSelf;Shout_BorrowedKnowledge;Target_MindSpike;Target_NathairsMischief;"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="bfaf6779-88ff-4574-8240-2f6a447dbf08"/> make a new UUID
+                </node>
+				<node id="SpellList"> Level 9 and 11 Spell List
+                    <attribute id="Spells" type="LSString" value="Target_HypnoticPattern;Target_PlantGrowth;Target_StinkingCloud;Target_FeignDeath;Target_GaseousForm;Target_RemoveCurse;Target_Haste"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="5f938ee4-9061-4edd-b343-1f672d453e81"/> make a new UUID
+                </node>
 				<node id="SpellList"> Level 2
                     <attribute id="Spells" type="LSString" value="Shout_SummonPie;Target_PopGoesTheWeasle;Target_HideousLaughter"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="38e707c2-66ac-488b-bb03-243954c061b9"/> make a new UUID. refer to this when selecting or adding spells
@@ -64,36 +76,7 @@
                     <attribute id="Spells" type="LSString" value="Interrupt_ViciousMockery_Clown_EnemyMiss;Shout_InspiringLeader"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="dbed17f8-4ccd-4db3-8e80-7806235c8174"/> make a new UUID
                 </node>
-				<node id="SpellList"> Level 2 White Face Spell List
-                    <attribute id="Comment" type="LSString" value="White Face Select Spells"/>
-                    <attribute id="Spells" type="LSString" value="Target_CharmPerson;Target_FloatingDisk;Target_Sanctuary;Target_Entangle;Target_FaerieFire;Target_FogCloud;Target_Grease;Target_Sleep;Target_CureWounds;Target_Longstrider;Target_AnimalFriendship;Shout_AbsorbElements;Target_BeastBond;Throw_Catapult;Target_CauseFear;Shout_DetectMagic;Target_Snare;Zone_TashasCausticBrew;Shout_ZephyrStrike"/> you can have multiple lists, and the same spell can be in different lists
-                    <attribute id="UUID" type="guid" value="69a47ea4-447f-4428-b034-4708cc3bc446"/> make a new UUID
-                </node>
-				<node id="SpellList"> Level 5 White Face Spell List
-                    <attribute id="Comment" type="LSString" value="White Face Select Spells"/>
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
-                    <attribute id="UUID" type="guid" value="bfaf6779-88ff-4574-8240-2f6a447dbf08"/> make a new UUID
-                </node>
-				<node id="SpellList"> Level 6 White Face
-                    <attribute id="Comment" type="LSString" value="White Face Select Spells"/>
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
-                    <attribute id="UUID" type="guid" value="dde8a24a-f820-490e-a884-f622376aca17"/> make a new UUID
-                </node>
-				<node id="SpellList"> Level 9 White Face
-                    <attribute id="Comment" type="LSString" value="White Face Select Spells"/>
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
-                    <attribute id="UUID" type="guid" value="5f938ee4-9061-4edd-b343-1f672d453e81"/> make a new UUID
-                </node>
-				<node id="SpellList"> Level 10 White Face
-                    <attribute id="Comment" type="LSString" value="White Face Select Spells"/>
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
-                    <attribute id="UUID" type="guid" value="a21bf509-c834-4122-a941-73d6ab53bb02"/> make a new UUID
-                </node>
-				<node id="SpellList"> Level 11 White Face
-                    <attribute id="Comment" type="LSString" value="White Face Select Spells"/>
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
-                    <attribute id="UUID" type="guid" value="71c52e94-736c-42ac-b324-8dad650f71dd"/> make a new UUID
-                </node>                
+
 <!--Auguste-->
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Auguste always prepared spells level 2"/>
