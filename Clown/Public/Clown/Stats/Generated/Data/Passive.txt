@@ -54,8 +54,7 @@ data "Properties" "Highlighted"
 data "Icon" ""
 data "Boosts" ""
 
-
-new entry "Passive_Act_"
+new entry "Passive_Act_FireEater"
 type "PassiveData"
 data "DisplayName" ";2"
 data "Description" ";3"
@@ -63,7 +62,7 @@ data "Properties" "Highlighted"
 data "Icon" ""
 data "Boosts" ""
 
-new entry "Passive_Act_FortuneTeller"
+new entry "Passive_Act_Juggling"
 type "PassiveData"
 data "DisplayName" ";2"
 data "Description" ";3"
@@ -71,8 +70,7 @@ data "Properties" "Highlighted"
 data "Icon" ""
 data "Boosts" ""
 
-
-new entry "Passive_Act_FortuneTeller"
+new entry "Passive_Act_Diving"
 type "PassiveData"
 data "DisplayName" ";2"
 data "Description" ";3"
@@ -80,6 +78,13 @@ data "Properties" "Highlighted"
 data "Icon" ""
 data "Boosts" ""
 
+new entry "Passive_Act_Cannonball"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";3"
+data "Properties" "Highlighted"
+data "Icon" ""
+data "Boosts" ""
 
 <!--WhiteFace-->
 

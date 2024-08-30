@@ -1,3 +1,23 @@
+<!--WhiteFace-->
+
+new entry "Interrupt_ViciousMockery_Clown_EnemyMiss"
+type "InterruptData"
+data "DisplayName" ""
+data "Description" ""
+data "DescriptionParams" "DealDamage(1d6,Psychic)"
+data "Icon" "Spell_Enchantment_ViciousMockery"
+data "InterruptContext" "OnCastHit"
+data "InterruptContextScope" "Nearby"
+data "Container" "YesNoDecision"
+data "Conditions" "IsAbleToReact(context.Observer) and Enemy(context.Source,context.Observer) and (IsCriticalMiss() or IsMiss()) and IsAttack()and not AnyEntityIsItem()"
+data "Properties" "UseSpell(OBSERVER_SOURCE,Target_ViciousMockery,true,true,true)"
+data "Cost" "ReactionActionPoint:1"
+data "InterruptDefaultValue" "Ask;Enabled"
+data "EnableCondition" "not HasStatus('SG_Polymorph') or Tagged('MINDFLAYER') or HasStatus('SG_Disguise')"
+data "EnableContext" "OnStatusApplied;OnStatusRemoved"
+
+<!--Auguste-->
+
 new entry "Interrupt_TestYourMight"
 type "InterruptData"
 data "DisplayName" "h1318d03c24ba4b5081bbdcf63ad7547a0aef;1"

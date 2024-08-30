@@ -38,7 +38,7 @@
                     <attribute id="UUID" type="guid" value="5868d7f8-8761-4cec-88a7-27a2f6dca6a1"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 9
-                    <attribute id="Spells" type="LSString" value=""/> a list of spell separated by a ;
+                    <attribute id="Spells" type="LSString" value="Target_Drop_Container"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="5331a07f-805c-4bf8-bd72-6fbe8a332de3"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 10
@@ -58,6 +58,11 @@
                     <attribute id="Comment" type="LSString" value="White Face always prepared spells level 2"/>
                     <attribute id="Spells" type="LSString" value="Target_ClownTime_Heckle"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="0beb3952-a7b7-4cab-9704-013234c64d78"/> make a new UUID
+                </node>
+				<node id="SpellList"> Level 3 White Face
+                    <attribute id="Comment" type="LSString" value="White Face always prepared spells level 3"/>
+                    <attribute id="Spells" type="LSString" value="Interrupt_ViciousMockery_Clown_EnemyMiss"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="dbed17f8-4ccd-4db3-8e80-7806235c8174"/> make a new UUID
                 </node>
 <!--Auguste-->
                 <node id="SpellList">
