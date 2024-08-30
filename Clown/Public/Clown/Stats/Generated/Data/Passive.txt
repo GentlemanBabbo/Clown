@@ -39,14 +39,47 @@ data "Icon" "Skill_Warlock_BindPactWeapon"
 data "Boosts" "WeaponAttackRollAbilityOverride(Charisma)"
 
 new entry "Passive_Act_Strongman"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";3"
+data "Properties" "Highlighted"
+data "Icon" ""
+data "Boosts" ""
 
 new entry "Passive_Act_TightRopeWalker"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";3"
+data "Properties" "Highlighted"
+data "Icon" ""
+data "Boosts" ""
+
 
 new entry "Passive_Act_"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";3"
+data "Properties" "Highlighted"
+data "Icon" ""
+data "Boosts" ""
 
 new entry "Passive_Act_FortuneTeller"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";3"
+data "Properties" "Highlighted"
+data "Icon" ""
+data "Boosts" ""
+
 
 new entry "Passive_Act_FortuneTeller"
+type "PassiveData"
+data "DisplayName" ";2"
+data "Description" ";3"
+data "Properties" "Highlighted"
+data "Icon" ""
+data "Boosts" ""
+
 
 <!--WhiteFace-->
 
