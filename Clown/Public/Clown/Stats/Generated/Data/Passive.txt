@@ -30,6 +30,17 @@ data "StatsFunctorContext" "OnAttack"
 data "Conditions" "not IsMiss() and IsMeleeWeaponAttack() "
 data "StatsFunctors" "DealDamage(CharismaModifier,Psychic,Magical)"
 
+new entry "Passive_Braggart"
+type "PassiveData"
+data "DisplayName" "hf79626942a1640138c1f39b4a9b4185df89c;3"
+data "Description" "h8ef22dd85d5b47148f67ba02176ce111d59c;5"
+data "Icon" "PassiveFeature_DarkOnesBlessing"
+data "DescriptionParams" "DealDamage(CharismaModifier,Psychic)"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "not IsMiss() and IsMeleeWeaponAttack() "
+data "StatsFunctors" "DealDamage(CharismaModifier,Force,Magical)"
+
 new entry "Passive_Act_FortuneTeller"
 type "PassiveData"
 data "DisplayName" "haee4b701ed8f4d4a8e5c55593c253998cb94;2"
@@ -86,8 +97,8 @@ type "PassiveData"
 data "DisplayName" "h2ec2110981924eee95fba30f7cd386df7e19;2"
 data "Description" "h144ae7b047b34a3a8660e13872844ebedfbg;3"
 data "Properties" "Highlighted"
-data "Icon" ""
-data "Boosts" ""
+data "Icon" "PassiveFeature_DiscipleOfLife"
+data "Boosts" "IncreaseMaxHP(Level*1)"
 
 <!--WhiteFace-->
 
@@ -100,7 +111,7 @@ data "Properties" "Highlighted;DisplayBoostInTooltip"
 data "Boosts" "IF(SpellId('Target_ViciousMockery') and IsCharismaModifierPositive()):DamageBonus(CharismaModifier,Force)"
 data "StatsFunctorContext" "OnAttack"
 data "Conditions" "SpellId('Target_ViciousMockery') and HasDamageEffectFlag(DamageFlags.Hit)"
-data "StatsFunctors" "ApplyStatus(PASSIVE_AGONIZING_BLAST,100,0)"
+data "StatsFunctors" "ApplyStatus(PASSIVE_WICKED_HUMOR,100,0)"
 
 <!--Auguste-->
 

@@ -5,11 +5,11 @@
         <node id="root">
             <children>
                 <node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_PsionicTonic"/> a list of passives separated with a comma
+                    <attribute id="Passives" type="LSString" value="Passive_PsionicTonic,Passive_Braggart"/> a list of passives separated with a comma
                     <attribute id="UUID" type="guid" value="8334b3ed-37e3-4ce7-a196-30a180775994"/> make a new UUID for each passive list. when selecting passive from list, refer to this UUID
                 </node>
 				<node id="PassiveList">
-                    <attribute id="Passives" type="LSString" value="Passive_Act_FortuneTeller"/> You can make more than 1 list. the same passive can be in different lists
+                    <attribute id="Passives" type="LSString" value="Passive_Act_FortuneTeller,Passive_Act_Strongman,Passive_Act_TightRopeWalker,Passive_Act_FireEater,Passive_Act_Juggling,Passive_Act_Diving,Passive_Act_Cannonball"/> You can make more than 1 list. the same passive can be in different lists
                     <attribute id="UUID" type="guid" value="d3f04000-6900-415b-80c3-ffa358962a5a"/> make a new UUID for each passive list
                 </node>
             </children>

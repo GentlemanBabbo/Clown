@@ -24,6 +24,8 @@
 	<content contentuid="hecd232cad4294012a0243e0022a7011809f1" version="1">You've been made fun of by a clown. You have Disadvantage on your Attack Roll.</content>
 	<content contentuid="h23e9e131c1e24d58a652dbdfb504ac21b3g6" version="1">What a Gag!</content>
 	<content contentuid="h24bbe48b16664d30a25e63090e3c7d75ag69" version="1">Your antics against your troop has filled you with childish glee! You have Advantage on your Attack Roll</content>
+	<content contentuid="hf79626942a1640138c1f39b4a9b4185df89c" version="1">Braggadocio</content>
+	<content contentuid="h8ef22dd85d5b47148f67ba02176ce111d59c" version="1">Your opinion of yourself borderlines on arrogance; after all, you're the kingpin clown. Such beliefs fuel your strikes with extra zeal; deal Force Damage equal to your Charisma modifier per attack.</content>
 	<content contentuid="ha7d3c848913e49fca902c4e4f815d6cabf71" version="1">Psionic Tonic</content>
 	<content contentuid="h1a0e2db9e0cc4f2e820233e53cd64bb84cbb" version="1">Psionic Side Effects</content>
 	<content contentuid="h183ef037b57349e4aa4dc41441f5988988aa" version="1">Against your better judgement, you have swallowed a con man's potion from a competitor's circus. On the label it reads: "It's a miracle that you found this super duper ultra special extra secret brew by Faerun's finest alchemists! It grows hair back; it makes you more handsome; it can even bring dead plants back to life!" Small font adorned the bottom of the bottle, warning of psionic side effects. Deal Psychic Damage equal to your Charisma modifier per attack.</content>
@@ -110,33 +112,7 @@
 	<content contentuid="hca49b5fd595a4ccaacdd8c129bd452c500e8" version="1">Diving Act</content>
 	<content contentuid="h63a16263425840f7b81fe2c5e37d8efdf52c" version="1">Fearless in the face of heights, your ability to fall with grace is applauded by many a fan. You suffer Half Damage from falls, and are immune to &lt;LSTag Type="Status" Tooltip="SUFFOCATING"&gt;Suffocation&lt;/LSTag&gt;.</content>	
 	<content contentuid="h2ec2110981924eee95fba30f7cd386df7e19" version="1">Cannonball Act</content>
-	<content contentuid="h144ae7b047b34a3a8660e13872844ebedfbg" version="1"></content>
-
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h144ae7b047b34a3a8660e13872844ebedfbg" version="1">Having been fired out of a cannon many times in your lifetime, you're built of stronger stuff. Your Hit Points are further increased by 1 per level earned.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -200,4 +176,29 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+    <content contentuid="hf79626942a1640138c1f39b4a9b4185df89c" version="1">Enter initial handle content here</content>
+    <content contentuid="h8ef22dd85d5b47148f67ba02176ce111d59c" version="1">Enter initial handle content here</content>
 </contentList>
