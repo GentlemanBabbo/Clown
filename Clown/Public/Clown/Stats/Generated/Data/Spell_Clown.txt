@@ -67,7 +67,7 @@ data "DeathType" "KnockedDown"
 data "TargetConditions" "Character() and not Self()"
 data "Icon" "Item_TOOL_Smith_Anvil_B"
 data "DisplayName" "ha6f53eac1e304565b9f9d742c805bd9ag0c7;2"
-data "Description" "hf5254b1c1e04427cbbde9161c78fa8387b1b;2"
+data "Description" "h03f3109c0b5d43d29575712e37d4558cdabf;2"
 data "TooltipUpcastDescription" "6ff1780a-855a-414c-a8bf-811251537206"
 data "PrepareLoopSound" "Spell_Status_OttosIrresistibleDance_MO"
 data "SpellFlags" "IsSpell;HasSomaticComponent;HasVerbalComponent;HasHighGroundRangeExtension;IsLinkedSpellContainer;CannotTargetCharacter;CannotTargetItems"
@@ -212,6 +212,8 @@ data "MemoryCost" "1"
 data "PrepareEffect" "2fa6b127-6f8a-4150-8be6-6f62b7a85911"
 data "CastEffect" "d2ef6b50-243f-478d-85c6-892086a1477e"
 data "TargetEffect" "f1de27ab-8104-462b-8acd-12df0124db28"
+
+
 
 <!--Auguste-->
 
