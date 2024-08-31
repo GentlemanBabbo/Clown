@@ -168,7 +168,7 @@ data "Description" "h38cc117b217e493ab5f49046d70d55c03c5e;4"
 data "Icon" "PassiveFeature_ClarifiedMortality"
 data "Properties" "Highlighted"
 data "StatsFunctorContext" "OnAttack"
-data "Conditions" "SpellId('Target_TestYourMight') and IsCritical()"
+data "Conditions" "SpellId('Target_TestYourMight') or SpellId('Target_TestYourMight_2') or SpellId('Target_TestYourMight_3') or SpellId('Target_TestYourMight_4') or SpellId('Target_TestYourMight_5') or SpellId('Target_TestYourMight_6') and IsCritical()"
 data "StatsFunctors" "CreateExplosion(Projectile_MonstrousLaughBlast)"
 
 <!--Tramp-->
