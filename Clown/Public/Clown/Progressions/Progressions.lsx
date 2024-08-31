@@ -6,7 +6,7 @@
             <children>
                 <node id="Progression"> Mainclass Level 1
                     <attribute id="AllowImprovement" type="bool" value="false"/> Whether your class get a feat at his level. Does not work for level 1.
-                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,1,0);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(Mauls);Proficiency(Warhammers);Proficiency(LightArmor);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting)"/> Adds resource, proficiency, etc.
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,2,0);ProficiencyBonus(SavingThrow,Constitution);ProficiencyBonus(SavingThrow,Charisma);Proficiency(SimpleWeapons);Proficiency(Mauls);Proficiency(Warhammers);Proficiency(LightArmor);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting)"/> Adds resource, proficiency, etc.
                     <attribute id="Level" type="uint8" value="1"/> Class Level for this entry
                     <attribute id="Name" type="LSString" value="Clown"/> Name of the class, keep it consistent with class description
                     <attribute id="PassivesAdded" type="LSString" value="Passive_AdornClownPaint"/> most class features usually can be done with passives
@@ -33,7 +33,7 @@
                 </node>
 				<node id="Progression"> Mainclass Level 1 MULTICLASS. (you will want a separate one as there are no AbilityBonus when multiclassing). Multiclassed character will use this progression entry instead of the previous one
                     <attribute id="AllowImprovement" type="bool" value="false"/>
-                    <attribute id="Boosts" type="LSString" value=""/>
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,2,0);Proficiency(SimpleWeapons);Proficiency(Mauls);Proficiency(Warhammers);Proficiency(LightArmor);Proficiency(MusicalInstrument);Attribute(UseMusicalInstrumentForCasting)"/>
                     <attribute id="IsMulticlass" type="bool" value="true"/>
 					<attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Clown"/>
@@ -85,7 +85,7 @@
                 </node>
                 <node id="Progression"> Mainclass Level 4
                     <attribute id="AllowImprovement" type="bool" value="true"/> 
-                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,1,0)"/> 
                     <attribute id="Level" type="uint8" value="4"/> 
                     <attribute id="Name" type="LSString" value="Clown"/> 
                     <attribute id="PassivesAdded" type="LSString" value=""/> 
@@ -121,7 +121,7 @@
                 </node>
                 <node id="Progression"> Mainclass Level 7
                     <attribute id="AllowImprovement" type="bool" value="false"/> 
-                    <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,1,2)"/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,1,0);ActionResource(SpellSlot,1,2)"/> 
                     <attribute id="Level" type="uint8" value="7"/> 
                     <attribute id="Name" type="LSString" value="Clown"/> 
                     <attribute id="PassivesAdded" type="LSString" value=""/> 
@@ -181,7 +181,7 @@
                 </node>
                 <node id="Progression"> Mainclass Level 12
                     <attribute id="AllowImprovement" type="bool" value="true"/> 
-                    <attribute id="Boosts" type="LSString" value=""/> 
+                    <attribute id="Boosts" type="LSString" value="ActionResource(CarnivalCharge,1,0)"/> 
                     <attribute id="Level" type="uint8" value="12"/> 
                     <attribute id="Name" type="LSString" value="Clown"/> 
                     <attribute id="PassivesAdded" type="LSString" value=""/> 
