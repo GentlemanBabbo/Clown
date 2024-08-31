@@ -327,7 +327,7 @@
                     <attribute id="Name" type="LSString" value="WhiteFace"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
                     <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value=""/> 
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8e453a45-23c8-48d0-af00-df05fc08d92c,,,,AlwaysPrepared)"/> 
                     <attribute id="TableUUID" type="guid" value="4ef10f65-3b0c-4e13-8669-86c8dc3ad89b"/> 
                     <attribute id="UUID" type="guid" value="0bed5543-eb1b-4304-910b-b0729362392f"/> 
                 </node>

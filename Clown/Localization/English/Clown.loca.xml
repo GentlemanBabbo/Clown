@@ -122,10 +122,10 @@
 	<content contentuid="h3826c22e5c8948d786471e808948ce989342" version="1">Hold still; this one is exceptionally heavy!</content>
 	<content contentuid="hcbfa295685f942e6b8e0ef814d5607737b9e" version="1">Wagon Drop</content>
 	<content contentuid="h8e695e5f34c3416c9d5037bf82cf464cf731" version="1">A wagon?! Really?!</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h42c459300ad644d09112ab67c19aff3ef1a3" version="1">It Hurts to Laugh</content>
+	<content contentuid="h9f18264499bb4c8a91ea3222df2070de4b12" version="1">It looks like your friend isn't having much fun judging by their injuries. Cheer them up by inflicting &lt;LSTag Type="Status" Tooltip="MONSTROUS_LAUGHTER"&gt;Monstrous Laughter.&lt;/LSTag&gt; Like they always say, laughter is contagious!</content>
+	<content contentuid="h6101c6c60c204eeb98f2c40b15d322a645ae" version="1">Monstrous Laughter</content>
+	<content contentuid="hdb77b98f99bb4965881b416f43dddf525eb5" version="1">Your voice cracks with a magical cackle that is infectious to the ear. All those within range of your hysteria must succeed a Wisdom saving throw or be subjected to &lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter.&lt;/LSTag&gt;</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>

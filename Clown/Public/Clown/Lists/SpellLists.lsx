@@ -76,7 +76,11 @@
                     <attribute id="Spells" type="LSString" value="Interrupt_ViciousMockery_Clown_EnemyMiss;Shout_InspiringLeader"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="dbed17f8-4ccd-4db3-8e80-7806235c8174"/> make a new UUID
                 </node>
-
+				<node id="SpellList"> Level 5 White Face Clown Specific
+                    <attribute id="Comment" type="LSString" value="White Face always prepared spells level 3"/>
+                    <attribute id="Spells" type="LSString" value="Target_HurtsToLaugh"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="UUID" type="guid" value="8e453a45-23c8-48d0-af00-df05fc08d92c"/> make a new UUID
+                </node>
 <!--Auguste-->
                 <node id="SpellList">
                     <attribute id="Comment" type="LSString" value="Auguste always prepared spells level 2"/>
