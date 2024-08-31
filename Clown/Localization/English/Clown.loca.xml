@@ -127,14 +127,14 @@
 	<content contentuid="h9f18264499bb4c8a91ea3222df2070de4b12" version="1">It looks like your friend isn't having much fun judging by their injuries. Cheer them up by inflicting &lt;LSTag Type="Status" Tooltip="MONSTROUS_LAUGHTER"&gt;Monstrous Laughter.&lt;/LSTag&gt; Like they always say, laughter is contagious!</content>
 	<content contentuid="h6101c6c60c204eeb98f2c40b15d322a645ae" version="1">Monstrous Laughter</content>
 	<content contentuid="hdb77b98f99bb4965881b416f43dddf525eb5" version="1">Your voice cracks with a magical cackle that is infectious to the ear. All those within range of your hysteria must succeed a Wisdom saving throw or be subjected to &lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter.&lt;/LSTag&gt;</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h675473fa137142478f88a726c40769bb85ae" version="1">Welcome to the Show: Razzle Dazzle</content>
+	<content contentuid="h9c52dd2dcd23492c9cb21823a3e9cdb81a8a" version="1">You herald in the crowd with a dazzling display of fireworks. Inflicts &lt;LSTag Type="Status" Tooltip="COLOR_SPRAY"&gt;Color Spray&lt;/LSTag&gt; on those swept up in the explosion.</content>
+	<content contentuid="h6d7f094ef63945da82c853a7564a9c7b8d4f" version="1">Welcome to the Show: Hollering Hootenanny</content>
+	<content contentuid="hb892f434b8ee4a66979829c70557566b8bfd" version="1">Welcome to the Show: Razzmatazz</content>	
+	<content contentuid="hd9d1c55be0b34402a099df96472706a0f980" version="1">Grand Finale: The Zippy Special</content>
+	<content contentuid="h7bb562ea95a94880b39351e8cb904ceca2cd" version="1">Grand Finale: The Wild Whimsy</content>
+	<content contentuid="hedb1fe3cbf6d42f3b35973cdc294dbaf1854" version="1">Grand Finale: The Big Kablow</content>
+	<content contentuid="h48b685d1fa1548a9a33f4797e89f9e42b83f" version="1">Thank you for coming to the show! Please exit the carnival in a timely fashion, or be blown to smithereens. Inflicts &lt;LSTag Type="Status" Tooltip="COLOR_SPRAY"&gt;Color Spray&lt;/LSTag&gt; on those swept up in the explosion.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>

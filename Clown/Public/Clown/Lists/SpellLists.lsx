@@ -26,7 +26,7 @@
                     <attribute id="UUID" type="guid" value="38e707c2-66ac-488b-bb03-243954c061b9"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 3
-                    <attribute id="Spells" type="LSString" value="Target_Bamboozle"/> a list of spell separated by a ;
+                    <attribute id="Spells" type="LSString" value="Projectile_StarttheShow_Rocket_A;Projectile_StarttheShow_Rocket_B;Projectile_StarttheShow_Rocket_C;Target_Bamboozle"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="5168048a-fd38-4f16-b62b-a6bcc916308b"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 4
@@ -54,7 +54,7 @@
                     <attribute id="UUID" type="guid" value="5331a07f-805c-4bf8-bd72-6fbe8a332de3"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 10
-                    <attribute id="Spells" type="LSString" value=""/> a list of spell separated by a ;
+                    <attribute id="Spells" type="LSString" value="Projectile_GrandFinale_Box_A;Projectile_GrandFinale_Box_B;Projectile_GrandFinale_Box_C"/> a list of spell separated by a ;
                     <attribute id="UUID" type="guid" value="6580c6c7-cb86-4845-975d-d3d1c82cf71e"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 11
