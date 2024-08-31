@@ -620,8 +620,8 @@
                     <attribute id="Level" type="uint8" value="1"/>
                     <attribute id="Name" type="LSString" value="Tramp"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value="Passive_SleepItOff"/>
-                    <attribute id="Selectors" type="LSString" value=""/> 
+                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(dd352c51-9c09-4b6c-bb00-370e514017d3,,,,AlwaysPrepared)"/> 
                     <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
                     <attribute id="UUID" type="guid" value="4eefc504-c1f6-46b4-a0f0-cc329e6389d8"/> 
                 </node>
@@ -629,8 +629,8 @@
                     <attribute id="Level" type="uint8" value="2"/>
                     <attribute id="Name" type="LSString" value="Tramp"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
-                    <attribute id="Selectors" type="LSString" value=""/> 
+                    <attribute id="PassivesAdded" type="LSString" value="Passive_SleepItOff"/>
+                    <attribute id="Selectors" type="LSString" value="AddSpells(8fcb02d5-686d-4df2-979d-7dcd80f2fccf,,,,AlwaysPrepared)"/> 
                     <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
                     <attribute id="UUID" type="guid" value="1a29ec34-672c-4d89-9da6-291964da776c"/> 
                 </node>

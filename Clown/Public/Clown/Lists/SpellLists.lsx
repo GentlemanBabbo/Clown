@@ -92,11 +92,11 @@
                 </node>
 <!--Tramp-->
 				<node id="SpellList"> Level 1 Spell List
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Shout_SelfDegradation"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="dd352c51-9c09-4b6c-bb00-370e514017d3"/> make a new UUID
                 </node>
 				<node id="SpellList"> Level 2 Spell List
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Shout_SleepyTime"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="8fcb02d5-686d-4df2-979d-7dcd80f2fccf"/> make a new UUID
                 </node>
 				<node id="SpellList"> Level 3 Spell List

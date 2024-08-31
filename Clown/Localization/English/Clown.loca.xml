@@ -143,33 +143,10 @@
 	<content contentuid="h6129b9cfcf1d49b1838371daaa3cf2052e5e" version="1">Sometimes you just have to sit down and nap in the middle of a bloodied battlefield as the fight is still going on. You regenerate Hit Points while &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;asleep.&lt;/LSTag&gt;. The heal increases with your Clown level. You cannot be harmed while in this state.</content>
 	<content contentuid="h5ec59516dd2843a993ed4b083b2e02123d59" version="1">Nodding Off</content>
 	<content contentuid="h2e6e252634924a468ba9e4169649aef1eagf" version="1">The stress of the moment has rendered you too exhausted to continue. You are &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;sleeping to recover.&lt;/LSTag&gt; You cannot be harmed while sleeping.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h2de9191f2eb744e8bafd5e1e855559bb987f" version="1">Self-Degradation</content>
+	<content contentuid="h6ef2969e8c0e487c8b42d34b5b7b4b735ddf" version="1">The jokes that hurt the most are the ones you crack on yourself. Inflict damage upon yourself and those around you. Damage to enemies and yourself increases with your Clown level.</content>	
+	<content contentuid="hcc38ca42d9434aeba834d884fdeee5de6565" version="1">Sleepy Time</content>
+	<content contentuid="h10fadf031c7a46488a7a20389ee5b44e3db6" version="1">All this joking around has you feeling tired. You go to &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;sleep to recover.&lt;/LSTag&gt; You cannot be harmed while sleeping.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
@@ -202,4 +179,31 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>
+	<content contentuid="" version="1"></content>	
+    <content contentuid="h2de9191f2eb744e8bafd5e1e855559bb987f" version="1">Enter initial handle content here</content>
+    <content contentuid="h6ef2969e8c0e487c8b42d34b5b7b4b735ddf" version="1">Enter initial handle content here</content>
+    <content contentuid="hcc38ca42d9434aeba834d884fdeee5de6565" version="1">Enter initial handle content here</content>
+    <content contentuid="h10fadf031c7a46488a7a20389ee5b44e3db6" version="1">Enter initial handle content here</content>
 </contentList>

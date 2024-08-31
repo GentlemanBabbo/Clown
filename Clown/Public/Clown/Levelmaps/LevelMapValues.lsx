@@ -38,6 +38,23 @@
                     <attribute id="PreferredClassUUID" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/>
                     <attribute id="UUID" type="guid" value="59379234-394a-47a3-922e-063b06b92eca"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="1d6"/>
+                    <attribute id="Level2" type="LSString" value="1d6"/>
+                    <attribute id="Level3" type="LSString" value="1d6"/>
+                    <attribute id="Level4" type="LSString" value="1d6"/>
+                    <attribute id="Level5" type="LSString" value="2d8"/>
+                    <attribute id="Level6" type="LSString" value="2d8"/>
+                    <attribute id="Level7" type="LSString" value="2d8"/>
+                    <attribute id="Level8" type="LSString" value="2d8"/>
+                    <attribute id="Level9" type="LSString" value="2d10"/>
+                    <attribute id="Level10" type="LSString" value="3d10"/>
+                    <attribute id="Level11" type="LSString" value="3d10"/>
+                    <attribute id="Level12" type="LSString" value="3d10"/>
+                    <attribute id="Name" type="FixedString" value="TrampDegradationDamage"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/>
+                    <attribute id="UUID" type="guid" value="cca6ce9a-b0ab-4312-9135-31f44c5eb1d6"/>
+                </node>
             </children>
         </node>
     </region>
