@@ -82,10 +82,13 @@
                     <attribute id="UUID" type="guid" value="8e453a45-23c8-48d0-af00-df05fc08d92c"/> make a new UUID
                 </node>
 <!--Auguste-->
-                <node id="SpellList">
-                    <attribute id="Comment" type="LSString" value="Auguste always prepared spells level 2"/>
+                <node id="SpellList"> Level 2 Auguste Clown Specific
                     <attribute id="Spells" type="LSString" value="Target_TestYourMight;Target_TestYourMight_Unlock;Target_TestYourMight_Critical_Unlock"/>
                     <attribute id="UUID" type="guid" value="e720ffa0-f942-45c0-a482-f8e8d5af9c16"/>
+                </node>
+                <node id="SpellList"> Level 3 Auguste Clown Specific
+                    <attribute id="Spells" type="LSString" value="Target_Wallop"/>
+                    <attribute id="UUID" type="guid" value="7547cc85-5fb8-427b-9e8d-bef1c1a50686"/>
                 </node>
 <!--Tramp-->
 				<node id="SpellList"> Level 1 Spell List
