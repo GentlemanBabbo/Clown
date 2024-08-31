@@ -83,7 +83,7 @@
                 </node>
 <!--Auguste-->
                 <node id="SpellList"> Level 2 Auguste Clown Specific
-                    <attribute id="Spells" type="LSString" value="Target_TestYourMight;Target_TestYourMight_Unlock;Target_TestYourMight_Critical_Unlock"/>
+                    <attribute id="Spells" type="LSString" value="Target_TestYourMight"/>
                     <attribute id="UUID" type="guid" value="e720ffa0-f942-45c0-a482-f8e8d5af9c16"/>
                 </node>
                 <node id="SpellList"> Level 3 Auguste Clown Specific
