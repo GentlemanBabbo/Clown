@@ -144,3 +144,12 @@ data "Conditions" "SpellId('Target_TestYourMight') or SpellId('Target_TestYourMi
 data "StatsFunctors" "CreateExplosion(Projectile_MonstrousLaughBlast)"
 
 <!--Tramp-->
+
+new entry "Passive_SleepItOff"
+type "PassiveData"
+data "DisplayName" "h80243fa19a064da3aec29457d867a2cf43ff;3"
+data "Description" "h6129b9cfcf1d49b1838371daaa3cf2052e5e;5"
+data "Icon" "statIcons_Regeneration"
+data "Properties" "Highlighted"
+data "OnApplyConditions" "HasStatus('SLEEPING')"
+data "Boosts" "ApplyStatus(SELF,TRAMP_REGENERATION,100,2);ApplyStatus(SELF,SANCTUARY,100,2)"

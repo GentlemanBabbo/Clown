@@ -21,6 +21,23 @@
                     <attribute id="PreferredClassUUID" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/>
                     <attribute id="UUID" type="guid" value="4bc964d7-57dc-4ded-8357-09d63f3ed37c"/>
                 </node>
+                <node id="LevelMapSeries">
+                    <attribute id="Level1" type="LSString" value="5"/>
+                    <attribute id="Level2" type="LSString" value="5"/>
+                    <attribute id="Level3" type="LSString" value="5"/>
+                    <attribute id="Level4" type="LSString" value="5"/>
+                    <attribute id="Level5" type="LSString" value="10"/>
+                    <attribute id="Level6" type="LSString" value="10"/>
+                    <attribute id="Level7" type="LSString" value="10"/>
+                    <attribute id="Level8" type="LSString" value="10"/>
+                    <attribute id="Level9" type="LSString" value="15"/>
+                    <attribute id="Level10" type="LSString" value="15"/>
+                    <attribute id="Level11" type="LSString" value="15"/>
+                    <attribute id="Level12" type="LSString" value="15"/>
+                    <attribute id="Name" type="FixedString" value="TrampRegenerationHeal"/>
+                    <attribute id="PreferredClassUUID" type="guid" value="21672426-4824-4508-838b-9c7de7769e49"/>
+                    <attribute id="UUID" type="guid" value="59379234-394a-47a3-922e-063b06b92eca"/>
+                </node>
             </children>
         </node>
     </region>

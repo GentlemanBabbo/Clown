@@ -139,10 +139,10 @@
 	<content contentuid="he2aa25b4d0ff4ea2a64178a2f645de634803" version="1">Give em' what for! Attack with &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt;; foes have &lt;LSTag Tooltip="Advantage"&gt;Advantage&lt;/LSTag&gt; against you as well. Requires &lt;LSTag Type="Status" Tooltip="MANIACAL_FRENZY"&gt;Giggle Fit&lt;/LSTag&gt; to be active.</content>	
 	<content contentuid="ha72dce6cafa04639ab5ac8690edacc52c0c3" version="1">Grimaldi's Monstrous Cacophony</content>
 	<content contentuid="h38cc117b217e493ab5f49046d70d55c03c5e" version="1">You channel the maestro of clown-kind in your wallops. Inflict &lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter&lt;/LSTag&gt; if you critically strike a foe with &lt;LSTag Type="Spell" Tooltip="Target_TestYourMight"&gt;Test Your Might!&lt;/LSTag&gt;</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h80243fa19a064da3aec29457d867a2cf43ff" version="1">Sleep It Off</content>
+	<content contentuid="h6129b9cfcf1d49b1838371daaa3cf2052e5e" version="1">Sometimes you just have to sit down and nap in the middle of a bloodied battlefield as the fight is still going on. You regenerate Hit Points while &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;asleep.&lt;/LSTag&gt;. The heal increases with your Clown level. You cannot be harmed while in this state.</content>
+	<content contentuid="h5ec59516dd2843a993ed4b083b2e02123d59" version="1">Nodding Off</content>
+	<content contentuid="h2e6e252634924a468ba9e4169649aef1eagf" version="1">The stress of the moment has rendered you too exhausted to continue. You are &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;sleeping to recover.&lt;/LSTag&gt; You cannot be harmed while sleeping.</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>	
 	<content contentuid="" version="1"></content>
