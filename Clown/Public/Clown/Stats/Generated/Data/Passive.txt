@@ -161,4 +161,14 @@ using "Passive_TestYourMight"
 data "Properties" "IsHidden"
 data "Boosts" "UnlockInterrupt(Interrupt_TestYourMight_3);UnlockInterrupt(Interrupt_Smite_Divine_Critical_3)"
 
+new entry "Passive_GrimaldiSmash"
+type "PassiveData"
+data "DisplayName" "ha72dce6cafa04639ab5ac8690edacc52c0c3;3"
+data "Description" "h38cc117b217e493ab5f49046d70d55c03c5e;4"
+data "Icon" "PassiveFeature_ClarifiedMortality"
+data "Properties" "Highlighted"
+data "StatsFunctorContext" "OnAttack"
+data "Conditions" "SpellId('Target_TestYourMight') and IsCritical()"
+data "StatsFunctors" "CreateExplosion(Projectile_MonstrousLaughBlast)"
+
 <!--Tramp-->

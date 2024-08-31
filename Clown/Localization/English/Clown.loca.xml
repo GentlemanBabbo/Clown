@@ -135,8 +135,8 @@
 	<content contentuid="h7bb562ea95a94880b39351e8cb904ceca2cd" version="1">Grand Finale: The Wild Whimsy</content>
 	<content contentuid="hedb1fe3cbf6d42f3b35973cdc294dbaf1854" version="1">Grand Finale: The Big Kablow</content>
 	<content contentuid="h48b685d1fa1548a9a33f4797e89f9e42b83f" version="1">Thank you for coming to the show! Please exit the carnival in a timely fashion, or be blown to smithereens. Inflicts &lt;LSTag Type="Status" Tooltip="COLOR_SPRAY"&gt;Color Spray&lt;/LSTag&gt; on those swept up in the explosion.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="ha72dce6cafa04639ab5ac8690edacc52c0c3" version="1">Grimaldi's Monstrous Cacophony</content>
+	<content contentuid="h38cc117b217e493ab5f49046d70d55c03c5e" version="1">You channel the maestro of clown-kind in your wallops. Inflict &lt;LSTag Type="Status" Tooltip="HIDEOUS_LAUGHTER"&gt;Hideous Laughter&lt;/LSTag&gt; if you critically strike a foe with &lt;LSTag Type="Spell" Tooltip="Target_TestYourMight"&gt;Test Your Might!&lt;/LSTag&gt;</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
