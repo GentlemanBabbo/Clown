@@ -104,7 +104,7 @@
                     <attribute id="UUID" type="guid" value="507743e8-ebeb-49e1-bfa0-2b76f068fc6a"/> make a new UUID
                 </node>
 				<node id="SpellList"> Level 5 Spell List
-                    <attribute id="Spells" type="LSString" value=""/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Shout_Slapstick_Psychosis"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="8ce9badb-a835-4d6a-b4fd-d2d61197cf31"/> make a new UUID
                 </node>
 			</children>

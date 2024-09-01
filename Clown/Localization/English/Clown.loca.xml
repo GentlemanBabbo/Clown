@@ -146,9 +146,9 @@
 	<content contentuid="h2de9191f2eb744e8bafd5e1e855559bb987f" version="1">Self-Degradation</content>
 	<content contentuid="h6ef2969e8c0e487c8b42d34b5b7b4b735ddf" version="1">The jokes that hurt the most are the ones you crack on yourself. Inflict damage upon yourself and those around you. Damage to enemies and yourself increases with your Clown level.</content>	
 	<content contentuid="hcc38ca42d9434aeba834d884fdeee5de6565" version="1">Sleepy Time</content>
-	<content contentuid="h10fadf031c7a46488a7a20389ee5b44e3db6" version="1">All this joking around has you feeling tired. You go to &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;sleep to recover.&lt;/LSTag&gt; You cannot be harmed while sleeping.</content>
-	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>
+	<content contentuid="h10fadf031c7a46488a7a20389ee5b44e3db6" version="1">All this joking around has you feeling tired. You go to &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;sleep.&lt;/LSTag&gt; You &lt;LSTag Type="Status" Tooltip="TRAMP_REGENERATION"&gt;regenerate&lt;/LSTag&gt; Hit Points while in this state, and you cannot be harmed.</content>
+	<content contentuid="hacc95c2cd9ca4fd39015b667419a074fcd8e" version="1">Slapstick Psychosis</content>
+	<content contentuid="h08f60a21895548338868910053b929ee21f3" version="1">You've finally snapped, giving in to nihilistic hilarity. Your &lt;LSTag Type="Status" Tooltip="MONSTROUS_LAUGHTER"&gt;Monstrous Laughter&lt;/LSTag&gt; is so unsettlingly funny that others can't help but join in!</content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
