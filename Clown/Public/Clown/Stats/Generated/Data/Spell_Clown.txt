@@ -9,7 +9,6 @@ data "TargetConditions" "CanStand('aaee4dce-a30f-440a-bb2c-45ad64c7884f') and no
 data "Icon" "Spell_Bamboozle"
 data "DisplayName" "he4402d02gce5dgf1bag1e09gf8438717d9b2;1"
 data "Description" "h23a48d66g3e26gf04fg3ff4gc65cea333a58;3"
-data "ExtraDescription" "h72cc72dcg7966g2fa9g119dg2ef35d2bdf0e;1"
 data "UseCosts" "ActionPoint:1;CarnivalCharge:1"
 
 new entry "Target_PopGoesTheWeasle"
