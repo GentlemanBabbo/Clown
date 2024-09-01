@@ -218,7 +218,7 @@ data "StackPriority" "5"
 data "AuraRadius" "5"
 data "AuraStatuses" "IF(Character() and not Self()):ApplyStatus(TRAMP_SLEEP_STATUS)"
 data "OnApplyFunctors" "ApplyStatus(SANCTUARY,100,5)"
-data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.TimeOut)):RegainHitPoints(2d4+SpellCastingAbilityModifier)"
+data "OnRemoveFunctors" "IF(RemoveCause(StatusRemoveCause.TimeOut)):RegainHitPoints(LevelMapValue(TrampRegenerationHeal)+SpellCastingAbilityModifier)"
 
 new entry "TRAMP_SLEEP_STATUS"
 type "StatusData"
