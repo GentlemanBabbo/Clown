@@ -80,6 +80,7 @@ data "SpellType" "Target"
 using "Target_ShockingGrasp"
 data "DisplayName" "h24e17e26g9c5bga950g3b0cgab694d2cd95c;1"
 data "Description" "he093b10age23fgbb64g5659gb28fb39070ff;1"
+data "Icon" "Spell_Summon_Clowns"
 data "UseCosts" "ActionPoint:1"
 
 new entry "Target_Drop_Container"
