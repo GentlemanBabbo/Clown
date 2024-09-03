@@ -324,14 +324,14 @@
                     <attribute id="V2" type="float" value="0.0625"/> Bottom			
                 </node>		
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="Icon_Spell_Wallop"/> 44 ROW 2 = 12
+                    <attribute id="MapKey" type="FixedString" value="Icon_Spell_UnluckyPenny"/> 44 ROW 2 = 12
                     <attribute id="U1" type="float" value="0.34375"/> Left
                     <attribute id="U2" type="float" value="0.375"/> Right
                     <attribute id="V1" type="float" value="0.03125"/> Top
                     <attribute id="V2" type="float" value="0.0625"/> Bottom			
                 </node>					
                 <node id="IconUV">
-                    <attribute id="MapKey" type="FixedString" value="SEM_"/> 45 ROW 2 = 13
+                    <attribute id="MapKey" type="FixedString" value="Icon_Spell_Wallop"/> 45 ROW 2 = 13
                     <attribute id="U1" type="float" value="0.375"/> Left
                     <attribute id="U2" type="float" value="0.40625"/> Right
                     <attribute id="V1" type="float" value="0.03125"/> Top
