@@ -10,7 +10,7 @@
                     <attribute id="UUID" type="guid" value="3d585bcb-db4d-4a76-97df-d82f90c5cde8"/> make a new UUID. refer to this when selecting or adding spells
                 </node>
 				<node id="SpellList"> Level 2 and 3 Spell List
-                    <attribute id="Spells" type="LSString" value="Zone_ColorSpray;Target_Hex;Target_CharmPerson;Target_Sanctuary;Target_Entangle;Target_FaerieFire;Target_FogCloud;Target_Grease;Target_Sleep;Target_CureWounds;Target_Longstrider;Target_AnimalFriendship"/> you can have multiple lists, and the same spell can be in different lists
+                    <attribute id="Spells" type="LSString" value="Projectile_UnluckyPenny;Zone_ColorSpray;Target_Hex;Target_CharmPerson;Target_Sanctuary;Target_Entangle;Target_FaerieFire;Target_FogCloud;Target_Grease;Target_Sleep;Target_CureWounds;Target_Longstrider;Target_AnimalFriendship"/> you can have multiple lists, and the same spell can be in different lists
                     <attribute id="UUID" type="guid" value="69a47ea4-447f-4428-b034-4708cc3bc446"/> make a new UUID
                 </node>
 				<node id="SpellList"> Level 5 and 7 Spell List
