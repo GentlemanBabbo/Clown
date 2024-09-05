@@ -638,7 +638,7 @@
                     <attribute id="Level" type="uint8" value="3"/>
                     <attribute id="Name" type="LSString" value="Tramp"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tramp_Drunk_Passive;Tramp_Sleep_Passive"/>
                     <attribute id="Selectors" type="LSString" value=""/> 
                     <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
                     <attribute id="UUID" type="guid" value="0ab310e6-424c-4374-8518-103bba735730"/> 
@@ -647,7 +647,7 @@
                     <attribute id="Level" type="uint8" value="4"/>
                     <attribute id="Name" type="LSString" value="Tramp"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tramp_Prone_Passive;Tramp_Fear_Passive"/>
                     <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
                     <attribute id="UUID" type="guid" value="2f598fb3-2487-4ea2-82fd-49c690e45ca9"/> 
                 </node>
@@ -655,7 +655,7 @@
                     <attribute id="Level" type="uint8" value="5"/>
                     <attribute id="Name" type="LSString" value="Tramp"/>
                     <attribute id="ProgressionType" type="uint8" value="1"/>
-                    <attribute id="PassivesAdded" type="LSString" value=""/>
+                    <attribute id="PassivesAdded" type="LSString" value="Tramp_Dead_Passive"/>
                     <attribute id="Selectors" type="LSString" value="AddSpells(8ce9badb-a835-4d6a-b4fd-d2d61197cf31,,,,AlwaysPrepared)"/> 
                     <attribute id="TableUUID" type="guid" value="7ba5cbfd-6030-4d62-9981-897b745ead3f"/>
                     <attribute id="UUID" type="guid" value="21685e3c-e0ee-4dbb-adf2-b3b211433e4a"/> 
