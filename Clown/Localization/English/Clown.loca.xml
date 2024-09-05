@@ -114,8 +114,6 @@
 	<content contentuid="h7c0a480dgb56bge80egba69ge74b20487e32" version="1">Fruit Drop</content>
 	<content contentuid="h0c5bba7fgdd7bg663dg2498g0ff6171cfbd9" version="1">Drop a giant fruit, they won't C this one coming.</content>
 	<content contentuid="h8cd448c9g42f7g5354gbd5egd8da028fc0d7" version="2">Giant Berry</content>
-	<content contentuid="hb24a1c7bg9999g153egeb91geaaf7fd1e675" version="1">Snoozed</content>
-	<content contentuid="h3cf3e941g1804gcdaag46d5ge59dea44c0fa" version="1">While the Tramp sleeps, the affected entity can't move or take actions, bonus actions, or reactions.&lt;Br&gt;&lt;Br&gt;Attacks against the entity are always &lt;LSTag Tooltip="CriticalHit"&gt;Critical Hits&lt;/LSTag&gt; if the attacker is within [1].</content>
 	<content contentuid="hc7343385g2270g3f5dg0d2ag436574f27648" version="2">Beauty Rest</content>
 	<content contentuid="h2e218faaga8b5g878bgd18dgff1b5f4d823c" version="2">One Too Many</content>
 	<content contentuid="h575ccc09ga025g4fcbg8e87ga4ccbe072722" version="1">Nauseous Aura</content>
@@ -123,6 +121,7 @@
 	<content contentuid="h5bb5adbeg2fdcgddcag41c8ga922dbaaebf5" version="2">Pearly Gates</content>
 	<content contentuid="h6997844cg6e34gc824gaf1dgf34dde5b1474" version="3">Wet Your Whistle</content>
 	<content contentuid="h6e8e9daagb3b9g09a8gb16bg0c88b524da34" version="2">Quench your thirst with some healthy libations. Once you are &lt;LSTag Type="Status" Tooltip="TRAMP_DRUNK_AURA"&gt;Drunk&lt;/LSTag&gt;, you will have two turns to act before you fall &lt;LSTag Type="Status" Tooltip="SLEEPING"&gt;asleep&lt;/LSTag&gt;. While Drunk, you radiate an aura that applies &lt;LSTag Type="Status" Tooltip="BLUR"&gt;Blur&lt;/LSTag&gt; to allies, and &lt;LSTag Tooltip="DISADVANTAGE"&gt;Disadvantage&lt;/LSTag&gt; on attacks to enemies.</content>
+	<content contentuid="h03c9f349a3314d0fbe6cf20bee2e87e7410f" version="2">Hic! I say-uh, Hic! Why did the mindflayer cross the nautiloid? To get to the-Hic! to the, uh, to the brains on the other side! Your drunk Tramp now has the &lt;LSTag Type="Status" Tooltip="TRAMP_DRUNK_STATUS_ALLY"&gt;Blurry Vision&lt;/LSTag&gt;and &lt;LSTag Type="Status" Tooltip="TRAMP_DRUNK_STATUS_ENEMY"&gt;Bumbling&lt;/LSTag&gt; auras activated.</content>
 	<content contentuid="h453f6d9bg727agd087gb5eeg8db27f4da3da" version="2">Sleep It Off</content>
 	<content contentuid="h3903c15fgec3egd15eg6f35gfd7f86d6cb1b" version="2">Down On Your Luck</content>
 	<content contentuid="h4f4e1541gc030gcd4dgc5d5g7ad0012ae4f8" version="2">Flying With The Angels</content>
@@ -130,6 +129,7 @@
 	<content contentuid="h1b945b33gb7ccg2adegf181gdc32f7c3334b" version="1">Sleep Countdown</content>
 	<content contentuid="hbbc9f66dgd645gd74agd76ag9cc6e0eb626c" version="1">Sleep Countdown</content>
 	<content contentuid="h2f834aeeg1a7eg6f6cgef35gf21e70f6dcd4" version="2">Blurry Vision</content>
+	<content contentuid="h71a0358c96474914922498c8e6a74af4bd92" version="2">The Tramp has kicked the bucket. But fear not! When Allies are near the corpse of the Tramp, they gain the &lt;LSTag Type="Status" Tooltip="TRAMP_DEAD_STATUS_ALLY"&gt;Fly With The Angels&lt;/LSTag&gt; buff, while enemies near the Tramp gain the &lt;LSTag Type="Status" Tooltip="TRAMP_DEAD_STATUS_ENEMY"&gt;Fiery Fate&lt;/LSTag&gt; ailment.</content>
 	<content contentuid="h679f20b1gcec8ga87cga9c3ga0218443f906" version="1">Gain &lt;LSTag Type="Status" Tooltip="BLUR"&gt;Blur&lt;/LSTag&gt; when near the Drunk Tramp.</content>
 	<content contentuid="ha9e28e43gbbc7g356bg4bf7gb1c5aa3b956e" version="1">Bumbling</content>
 	<content contentuid="h8f396710gf8f9g088fg81dfg7075d5764e21" version="1">When near the Drunk Tramp, you have a &lt;LSTag Tooltip="DISADVANTAGE"&gt;Disadvantage&lt;/LSTag&gt; on attacks.</content>
@@ -142,11 +142,11 @@
 	<content contentuid="hbd38a5d7g245ag27b7gc268g349ae4e74ca5" version="1">Fly With The Angels</content>
 	<content contentuid="hf6de29d7g3b94g8b16ga75fgdd03d056b51a" version="1">Fly towards the heavens now that the Tramp is there too. Your allies gain &lt;LSTag Type="Status" Tooltip="POTION_OF_FLYING"&gt;Flight&lt;/LSTag&gt; when the Tramp is dead.</content>
 	<content contentuid="h99d8014ag35c1ga327gff05gaba1f0112725" version="1">Fiery Fate</content>
-	<content contentuid="ha1512c24ga37agb2abgf705g27329770e304" version="1">Feel the burn of your future home. Your enemies gain &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; when the Tramp is dead.</content>
+	<content contentuid="ha1512c24ga37agb2abgf705g27329770e304" version="1">They feel the heat of their future home. Your enemies gain &lt;LSTag Type="Status" Tooltip="BURNING"&gt;Burning&lt;/LSTag&gt; when the Tramp is dead.</content>
 	<content contentuid="h86ed7d39gac3cge637g94f3ga479c8b2de58" version="1">They can't lick you. Catch a snooze and feel &lt;LSTag Type="Status" Tooltip="TRAMP_SLEEP_AURA"&gt;Refreshed&lt;/LSTag&gt; when you awaken. Those around will have to wait.</content>
 	<content contentuid="hdd47d834g7219g1a56g7515gcc35d73c5e08" version="1">When the Tramp falls on hard times, they still manage to put on a show. Applies the &lt;LSTag Type="Status" Tooltip="TRAMP_PRONE_STATUS_ALLY"&gt;Speedy&lt;/LSTag&gt; aura to allies and the &lt;LSTag Type="Status" Tooltip="TRAMP_PRONE_STATUS_ENEMY"&gt;Vicarious Convulsions&lt;/LSTag&gt; aura on enemies when the Tramp falls Prone.</content>
 	<content contentuid="h60656794gbe86gb773g7f22gb48ccd922ef2" version="1">You're on your way to the pearly gates; applies the &lt;LSTag Type="Status" Tooltip="TRAMP_DEAD_STATUS_ALLY"&gt;Fly With The Angels&lt;/LSTag&gt; aura to allies and the &lt;LSTag Type="Status" Tooltip="TRAMP_DEAD_STATUS_ENEMY"&gt;Fiery Fate&lt;/LSTag&gt; aura on enemies when the Tramp is dead.</content>
-	<content contentuid="ha0bd46aagf34cg5396g3f48ga272ac3d4ad4" version="2">It's ok to be a little scared.  applies the &lt;LSTag Type="Status" Tooltip="TRAMP_FEAR_STATUS_ALLY"&gt;Leading Role&lt;/LSTag&gt; aura to allies and the &lt;LSTag Type="Status" Tooltip="TRAMP_FEAR_STATUS_ENEMY"&gt;Spotlighte&lt;/LSTag&gt; aura on enemies when the Tramp is Frightened.</content>
+	<content contentuid="ha0bd46aagf34cg5396g3f48ga272ac3d4ad4" version="2">It's ok to be a little scared. Applies the &lt;LSTag Type="Status" Tooltip="TRAMP_FEAR_STATUS_ALLY"&gt;Leading Role&lt;/LSTag&gt; aura to allies and the &lt;LSTag Type="Status" Tooltip="TRAMP_FEAR_STATUS_ENEMY"&gt;Spotlight&lt;/LSTag&gt; aura on enemies when the Tramp is Frightened.</content>
 	<content contentuid="hcc9aedeagedf3g48ccgb9a9gf0beffbc3199" version="1">Leading Role</content>
 	<content contentuid="hb45360a4g65d7g8836g7787g9643a865ae74" version="2">Protect your Tramp and save the day by gaining an &lt;LSTag Tooltip="ADVANTAGE"&gt;Advantage&lt;/LSTag&gt; on attacks.</content>
 	<content contentuid="hbe5298f8gd26cg71d4g8618gd21250a5b4c3" version="1">Spotlight</content>
@@ -255,5 +255,5 @@
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
 	<content contentuid="" version="1"></content>
-	<content contentuid="" version="1"></content>	
+    <content contentuid="h03c9f349a3314d0fbe6cf20bee2e87e7410f" version="1">Enter initial handle content here</content>
 </contentList>
