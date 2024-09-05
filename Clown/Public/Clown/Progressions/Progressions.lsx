@@ -148,7 +148,7 @@
                     <attribute id="Boosts" type="LSString" value="ActionResource(SpellSlot,2,3);ActionResource(CarnivalCharge,1,0)"/> 
                     <attribute id="Level" type="uint8" value="9"/> 
                     <attribute id="Name" type="LSString" value="Clown"/> 
-                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3"/> 
+                    <attribute id="PassivesAdded" type="LSString" value="UnlockedSpellSlotLevel3;Passive_Pagliaccio"/> 
                     <attribute id="PassivesRemoved" type="LSString" value=""/>
                     <attribute id="ProgressionType" type="uint8" value="0"/> 
                     <attribute id="Selectors" type="LSString" value="SelectSpells(5f938ee4-9061-4edd-b343-1f672d453e81,2,0,,,,AlwaysPrepared)"/> 

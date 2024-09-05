@@ -254,7 +254,7 @@ data "Icon" "Icon_Passive_Tramp_Prone"
 data "FormatColor" "Yellow"
 data "StackId" "TRAMP_PRONE_AURA"
 data "StackPriority" "5"
-data "OnApplyFunctors" "ApplyStatus(HIDEOUS_LAUGHTER,100,1)"
+data "OnApplyFunctors" "ApplyStatus(CONTAGION_SEIZURE,100,1)"
 
 new entry "TRAMP_DEAD_AURA"
 type "StatusData"
