@@ -220,7 +220,7 @@ data "FormatColor" "Pink"
 data "Icon" "Icon_Passive_Tramp_Sleep"
 data "StackId" "TRAMP_SLEEP_AURA"
 data "StackPriority" "5"
-data "OnApplyFunctors" "ApplyStatus(TRAMP_REGENERATION,100,2)"
+data "OnApplyFunctors" "ApplyStatus(SNOOZED,100,2)"
 data "StatusEffect" "f8d47b16-08a1-4654-90c6-372d90fe4b64"
 data "StatusEffectOnTurn" "8df91641-7686-4a6b-a821-3181b7031dd1"
 

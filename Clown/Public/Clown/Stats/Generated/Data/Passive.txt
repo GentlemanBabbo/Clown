@@ -172,7 +172,7 @@ data "Description" "h86ed7d39gac3cge637g94f3ga479c8b2de58;1"
 data "Icon" "Icon_Passive_Tramp_Sleep"
 data "StatsFunctorContext" "OnStatusApplied"
 data "Conditions" "StatusHasStatusGroup(context.StatusId,'SG_Sleeping')"
-data "StatsFunctors" "ApplyStatus(TRAMP_SLEEP_AURA,100,5)"
+data "StatsFunctors" "ApplyStatus(TRAMP_SLEEP_AURA,100,1)"
 
 new entry "Tramp_Prone_Passive"
 type "PassiveData"
